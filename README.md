@@ -8,4 +8,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=rlatkd&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rlatkd)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rlatkd"/>
+</a>
+
