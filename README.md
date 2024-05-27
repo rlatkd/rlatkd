@@ -28,7 +28,7 @@
 - 패션 커뮤니티
   [Flask SSR]
   
-### 토이 프로젝트
+### 개인 프로젝트
 - 고객 관리 시스템v2
   [SpringBoot + MySQL + Vue]
 - Qlik Sense 임베드
