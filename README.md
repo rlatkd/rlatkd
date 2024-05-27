@@ -27,13 +27,7 @@
   [Flask + MySQL + React]
 - 패션 커뮤니티
   [Flask SSR]
-
-### 개인 프로젝트
-- Convolutional Neural Network를 이용한 간종양 모델 비교연구
-  [Python + Keras]
-- CT 이미지재구성
-  [MATLAB]
-
+  
 ### 토이 프로젝트
 - 고객 관리 시스템v2
   [SpringBoot + MySQL + Vue]
@@ -45,3 +39,14 @@
   [Express + React]
 - 뉴스기사 웹 크롤링
   [Python + BeautifulSoup]
+  
+### 학부 프로젝트
+- Convolutional Neural Network를 이용한 간종양 모델 비교연구
+  [Python + Keras]
+- 의공해석 프로그램
+  [Python + Scikit-Learn]
+- CT 이미지재구성
+  [MATLAB]
+- 생체의공학 종합 설계
+  [C++]
+
