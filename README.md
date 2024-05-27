@@ -13,20 +13,16 @@
 </a> -->
 
 ### 팀 프로젝트
-- 풋살 자동매칭 서비스
-  [SpringBoot + Oracle + MyBatis + JavaScript + GitLab CICD]
-- 효성은행
-  [Java]
-- 웹 POS 서비스
-  [Flask + PostgreSQL + React + EKS + ApacheKafka + ElasticSearch + Prometheus + ... ]
-- 중고 경매 플랫폼v2
-  [AWS + CICD + Terraform]
-- 중고 경매 플랫폼v1
-  [Docker + Kubernetes]
-- 중고 경매 플랫폼v0
-  [Flask + MySQL + React]
-- 패션 커뮤니티
-  [Flask SSR]
+| 프로젝트            | 기술 스택                                                                                          | 추가 정보 |
+|---------------------|----------------------------------------------------------------------------------------------------|-----------|
+| 풋살 자동매칭 서비스 | SpringBoot + Oracle + MyBatis + JavaScript + GitLab CICD                                            |           |
+| 효성은행            | Java                                                                                               |           |
+| 웹 POS 서비스       | Flask + PostgreSQL + React + EKS + ApacheKafka + ElasticSearch + Prometheus + ...                  |           |
+| 중고 경매 플랫폼v2  | AWS + CICD + Terraform                                                                             |           |
+| 중고 경매 플랫폼v1  | Docker + Kubernetes                                                                                |           |
+| 중고 경매 플랫폼v0  | Flask + MySQL + React                                                                              |           |
+| 패션 커뮤니티       | Flask SSR                                                                                          |           |
+
   
 ### 개인 프로젝트
 - 고객 관리 시스템v2
