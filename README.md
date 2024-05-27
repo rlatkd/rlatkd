@@ -14,7 +14,7 @@
 
 ### 팀 프로젝트
 - 풋살 자동매칭 서비스
-  [SpringBoot + Oracle + MyBatis + JavaScript]
+  [SpringBoot + Oracle + MyBatis + JavaScript + GitLab CICD]
 - 효성은행
   [Java]
 - 웹 POS 서비스
