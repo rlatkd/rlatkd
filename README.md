@@ -43,5 +43,5 @@
   [JavaScript]
 - 고객 관리 시스템v1
   [Express + React]
-- 웹 크롤링
+- 뉴스기사 웹 크롤링
   [Python]
