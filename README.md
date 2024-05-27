@@ -13,21 +13,35 @@
 </a> -->
 
 ### 팀 프로젝트
-- 풋살 자동매칭 서비스 [SpringBoot + Oracle + MyBatis + JavaScript]
-- 효성은행 [Java]
-- 웹 POS 서비스 [Flask + PostgreSQL + React + EKS + ApacheKafka + ElasticSearch + Prometheus + ... ]
-- 중고 경매 플랫폼v2 [AWS + CICD + Terraform]
-- 중고 경매 플랫폼v1 [Docker + Kubernetes]
-- 중고 경매 플랫폼v0 [Flask + MySQL + React]
-- 패션 커뮤니티 [Flask SSR]
-
+- 풋살 자동매칭 서비스
+  [SpringBoot + Oracle + MyBatis + JavaScript]
+- 효성은행
+  [Java]
+- 웹 POS 서비스
+  [Flask + PostgreSQL + React + EKS + ApacheKafka + ElasticSearch + Prometheus + ... ]
+- 중고 경매 플랫폼v2
+  [AWS + CICD + Terraform]
+- 중고 경매 플랫폼v1
+  [Docker + Kubernetes]
+- 중고 경매 플랫폼v0
+  [Flask + MySQL + React]
+- 패션 커뮤니티
+  [Flask SSR]
 
 ### 개인 프로젝트
-- Convolutional Neural Network를 이용한 간종양 모델 비교연구 (학사졸업논문)
-- CT 이미지재구성 [MATLAB]
+- Convolutional Neural Network를 이용한 간종양 모델 비교연구
+  [생체의공학사 졸업논문]
+- CT 이미지재구성
+  [MATLAB]
 
 ### 토이 프로젝트
-- 고객 관리 시스템v2 [SpringBoot + MySQL + Vue]
-- Qlik Sense 임베드 [TypeScript]
-- Qlik Sense 메시업 [JavaScript]
-- 고객 관리 시스템v1 [Express + React]
+- 고객 관리 시스템v2
+  [SpringBoot + MySQL + Vue]
+- Qlik Sense 임베드
+  [TypeScript]
+- Qlik Sense 메시업
+  [JavaScript]
+- 고객 관리 시스템v1
+  [Express + React]
+- 웹 크롤링
+  [Python]
