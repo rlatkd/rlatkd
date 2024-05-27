@@ -45,7 +45,7 @@
   [Python + Keras]
 - 의공해석 프로그램
   [Python + Scikit-Learn]
-- CT 이미지재구성
+- CT 이미지 재구성
   [MATLAB]
 - 생체의공학 종합 설계
   [C++]
