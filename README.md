@@ -39,14 +39,15 @@
   [Express + React]
 - 뉴스기사 웹 크롤링
   [Python + BeautifulSoup]
-  
-### 학부 프로젝트
+
+### 졸업 논문
 - Convolutional Neural Network를 이용한 간종양 모델 비교연구
   [Python + Keras]
+  
+### 학부 프로젝트
 - 의공해석 프로그램
   [Python + Scikit-Learn]
 - CT 이미지 재구성
   [MATLAB]
 - 생체의공학 종합 설계
   [C++]
-
