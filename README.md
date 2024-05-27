@@ -49,5 +49,5 @@
   [Python + Scikit-Learn]
 - CT 이미지 재구성
   [MATLAB]
-- 생체의공학 종합 설계
+- 보폭에 따른 하체 신경 분석 시스템
   [C++]
