@@ -30,7 +30,7 @@
 
 ### 개인 프로젝트
 - Convolutional Neural Network를 이용한 간종양 모델 비교연구
-  [생체의공학사 졸업논문]
+  [Python + Keras]
 - CT 이미지재구성
   [MATLAB]
 
@@ -44,4 +44,4 @@
 - 고객 관리 시스템v1
   [Express + React]
 - 뉴스기사 웹 크롤링
-  [Python]
+  [Python + BeautifulSoup]
