@@ -27,6 +27,7 @@
 | 고객 관리 시스템v2    | SpringBoot + MySQL + Vue                                                                           |           |
 | Qlik Sense 임베드     | TypeScript                                                                                         |           |
 | Qlik Sense 메시업     | JavaScript                                                                                         |           |
+| 배포 자동화 CICD 파이프라인     | GitHub Actions                                                                                         |           |
 | 고객 관리 시스템v1    | Express + React                                                                                    |           |
 | 뉴스기사 웹 크롤링    | Python + BeautifulSoup                                                                             |           |
 |**-------------------졸업 논문-------------------**|**--------------------------------------------------------------------------**|**---------**|
