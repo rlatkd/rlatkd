@@ -18,12 +18,13 @@
 |**------------------팀 프로젝트-----------------**|**--------------------------------------------------------------------------**|**---------**|
 | 풋살 자동매칭 서비스 | SpringBoot + Oracle + MyBatis + JavaScript + GitLab CICD                                            |     2024.05.      |
 | 효성은행            | Java                                                                                               |        2024.03.   |
-| 웹 POS 서비스       | Flask + PostgreSQL + React + Amazon EKS + ApacheKafka + ElasticSearch + ArgoCD + Prometheus + ...                  |       2023.12.    |
+| 웹 POS 서비스       | Flask + PostgreSQL + React + Amazon EKS + Apache Kafka + ElasticSearch + ArgoCD + Prometheus + ...                  |       2023.12.    |
 | 중고 경매 플랫폼v2  | AWS + CICD + Terraform                                                                             |           |
 | 중고 경매 플랫폼v1  | Docker + Kubernetes                                                                                |           |
 | 중고 경매 플랫폼v0  | Flask + MySQL + React                                                                              |           |
 | 패션 커뮤니티       | Flask SSR                                                                                          |       2023.08.    |
 |**-----------------개인 프로젝트----------------**|**--------------------------------------------------------------------------**|**---------**|
+| 실시간 채팅    | SpringBoot + Apache Kafka                                                                           |    진행중       |
 | 고객 관리 시스템v2    | SpringBoot + MySQL + Vue                                                                           |           |
 | Qlik Sense 임베드     | TypeScript                                                                                         |           |
 | Qlik Sense 메시업     | JavaScript                                                                                         |           |
