@@ -16,24 +16,25 @@
 |             | 기술 스택                                                                                          | 링크 | 기간 |
 |---------------------|----------------------------------------------------------------------------------------------------|-----------|------|
 |**-----------팀 프로젝트-----------**|**------------------------------------------------------------------------**|**---------**|------|
-| 풋살 자동매칭 서비스 | SpringBoot + Oracle + MyBatis + JavaScript + GitLab CICD                                            |   |   2024.05.   |
-| 효성은행            | Java                                                                                               |   |    2024.03.  |
-| 웹 POS 서비스       | Flask + PostgreSQL + React + Amazon EKS + Apache Kafka + ElasticSearch + ArgoCD + Prometheus + ... |   |   2023.12.   |
-| 중고 경매 플랫폼v2  | AWS + CICD + Terraform                                                                             |           |      |
-| 중고 경매 플랫폼v1  | Docker + Kubernetes                                                                                |           |      |
-| 중고 경매 플랫폼v0  | Flask + MySQL + React                                                                              |           |      |
-| 패션 커뮤니티       | Flask SSR                                                                                          |   |  2023.08.    |
+| 풋살 자동매칭 서비스 | Spring Boot + Oracle + MyBatis + JavaScript + GitLab CICD                                            | [match5](https://github.com/rlatkd/match5)  |   2024.05.   |
+| 효성은행            | Java                                                                                               | [hs-bank](https://github.com/rlatkd/hs-bank)  |    2024.03.  |
+| 웹 POS 서비스       | Flask + PostgreSQL + React + Amazon EKS + Apache Kafka + ElasticSearch + ArgoCD + Prometheus + ... |[salesync](https://github.com/rlatkd/salesync)   |   2023.12.   |
+| 중고 경매 플랫폼v2  | AWS + CICD + Terraform                                                                             |  [ssgbay-v2](https://github.com/rlatkd/ssgbay-v2)         |      |
+| 중고 경매 플랫폼v1  | Docker + Kubernetes                                                                                |   [ssgbay-v1](https://github.com/rlatkd/ssgbay-v1)        |      |
+| 중고 경매 플랫폼v0  | Flask + MySQL + React                                                                              |  [ssgbay-v0](https://github.com/rlatkd/ssgbay-v0)         |      |
+| 패션 커뮤니티       | Flask SSR                                                                                          | [fashion-community](https://github.com/rlatkd/fashion-community)  |  2023.08.    |
 |**----------개인 프로젝트---------**|**------------------------------------------------------------------------**|**---------**|------|
-| 실시간 채팅         | SpringBoot + Security + JPA(+Hibernate) + MySQL + Apache Kafka + Docker Compose                    |           [live-chat](https://github.com/rlatkd/live-chat)      |   2024.05.27. ~   |
-| 고객 관리 시스템v2  | SpringBoot + MySQL + Vue                                                                           |           |      |
-| Qlik Sense 임베드   | TypeScript                                                                                         |           |      |
-| Qlik Sense 메시업   | JavaScript                                                                                         |           |      |
+| 실시간 채팅         | Spring Boot + Security + JPA(+Hibernate) + MySQL + Apache Kafka + Docker Compose                    |           [live-chat](https://github.com/rlatkd/live-chat)      |   2024.05.27. ~   |
+| GitLab Runner         | GitLab Runner + Shell Script + Spring Boot                    |           [gitlab-runner](https://github.com/rlatkd/gitlab-runner)      |   2024.05.27. ~   |
+| 고객 관리 시스템v2  | SpringBoot + MySQL + Vue                                                                           |    [management-system-v2](https://github.com/rlatkd/management-system-v2)       |      |
+| Qlik Sense 임베드   | TypeScript                                                                                         |  [qlik-embed](https://github.com/rlatkd/qlik-embed)         |      |
+| Qlik Sense 메시업   | JavaScript                                                                                         |    [qlik-mashup](https://github.com/rlatkd[qlik-mashup)       |      |
 | 배포 자동화 CICD 파이프라인 | GitHub Actions                                                                                         |           |      |
-| 고객 관리 시스템v1  | Express + React                                                                                    |           |      |
+| 고객 관리 시스템v1  | Express + React                                                                                    |     [management-system](https://github.com/rlatkd/management-system)      |      |
 | 의약품 검색엔진     | Python + Pandas                                                                                    |           |      |
 |**------------졸업 논문------------**|**------------------------------------------------------------------------**|**---------**|------|
 | Convolutional Neural Network를 이용한 간종양 모델 비교연구 | Python + Keras                                                                                     |           |      |
 |**----------학부 프로젝트---------**|**------------------------------------------------------------------------**|**---------**|------|
-| 의공해석 프로그램   | Python + Scikit-Learn                                                                              |           |      |
-| CT 이미지 재구성    | MATLAB                                                                                             |           |      |
-| 보폭에 따른 하체 신경 분석 시스템 | C++                                                                                               |           |      |
+| 의공해석 프로그램   | Python + Scikit-Learn                                                                              |          |      |
+| CT 이미지 재구성    | MATLAB                                                                                             |    [ct-image-reconstruction](https://github.com/rlatkd/ct-image-reconstruction)       |      |
+| 보폭에 따른 하체 신경 분석 시스템 | C++                                                                                               |          |      |
