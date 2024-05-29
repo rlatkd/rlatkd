@@ -24,7 +24,7 @@
 | 중고 경매 플랫폼v0  | Flask + MySQL + React                                                                              |           |      |
 | 패션 커뮤니티       | Flask SSR                                                                                          |   |  2023.08.    |
 |**----------개인 프로젝트---------**|**------------------------------------------------------------------------**|**---------**|------|
-| 실시간 채팅         | SpringBoot + Security + JPA(+Hibernate) + MySQL + Apache Kafka + Docker Compose                    |[GitHub 링크](https://github.com/rlatkd/live-chat)    |   2024.05.27. ~   |
+| 실시간 채팅         | SpringBoot + Security + JPA(+Hibernate) + MySQL + Apache Kafka + Docker Compose                    |[live-chat](https://github.com/rlatkd/live-chat)    |   2024.05.27. ~   |
 | 고객 관리 시스템v2  | SpringBoot + MySQL + Vue                                                                           |           |      |
 | Qlik Sense 임베드   | TypeScript                                                                                         |           |      |
 | Qlik Sense 메시업   | JavaScript                                                                                         |           |      |
