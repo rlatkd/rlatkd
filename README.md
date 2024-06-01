@@ -16,7 +16,7 @@
 |             | 기술 스택                                                                                          | 링크 | 기간 |
 |---------------------|----------------------------------------------------------------------------------------------------|-----------|------|
 |**----------팀 프로젝트-----------**|**-----------------------------------------------------------**|**---------**|**------**|
-| 풋살 자동매칭 서비스 | Spring Boot + Oracle + MyBatis + JavaScript + GitLab CICD                                            | [match5](https://github.com/rlatkd/match5)  |   2024.05.   |
+| 풋살 자동매칭 서비스 | Spring Boot + Oracle + MyBatis + JavaScript + AWS + Oracle Cloud + GitLab CICD                                            | [match5](https://github.com/rlatkd/match5)  |   2024.05.   |
 | 효성은행            | Java                                                                                               | [hs-bank](https://github.com/rlatkd/hs-bank)  |    2024.03.  |
 | 웹 POS 서비스       | Flask + PostgreSQL + React + Amazon EKS + Apache Kafka + ElasticSearch + ArgoCD + Prometheus + ... |[salesync](https://github.com/rlatkd/salesync)   |   2023.12.   |
 | 중고 경매 플랫폼v0  | Flask + MySQL + React                                                                              |  [ssgbay-v0](https://github.com/rlatkd/ssgbay-v0)         |      |
