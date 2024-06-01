@@ -19,19 +19,16 @@
 | 풋살 자동매칭 서비스 | Spring Boot + Oracle + MyBatis + JavaScript + GitLab CICD                                            | [match5](https://github.com/rlatkd/match5)  |   2024.05.   |
 | 효성은행            | Java                                                                                               | [hs-bank](https://github.com/rlatkd/hs-bank)  |    2024.03.  |
 | 웹 POS 서비스       | Flask + PostgreSQL + React + Amazon EKS + Apache Kafka + ElasticSearch + ArgoCD + Prometheus + ... |[salesync](https://github.com/rlatkd/salesync)   |   2023.12.   |
-| 중고 경매 플랫폼v2  | AWS + CICD + Terraform                                                                             |  [ssgbay-v2](https://github.com/rlatkd/ssgbay-v2)         |      |
-| 중고 경매 플랫폼v1  | Docker + Kubernetes                                                                                |   [ssgbay-v1](https://github.com/rlatkd/ssgbay-v1)        |      |
 | 중고 경매 플랫폼v0  | Flask + MySQL + React                                                                              |  [ssgbay-v0](https://github.com/rlatkd/ssgbay-v0)         |      |
 | 패션 커뮤니티       | Flask SSR                                                                                          | [fashion-community](https://github.com/rlatkd/fashion-community)  |  2023.08.    |
 |**----------개인 프로젝트---------**|**-----------------------------------------------------------**|**---------**|**------**|
 | 실시간 채팅         | Spring Boot + WebSocket(+STOMP) + Security + JPA(+Hibernate) + MySQL + Apache Kafka + React + Docker Compose                    |           [live-chat](https://github.com/rlatkd/live-chat)      |   2024.05.27. ~   |
-| SSR CRUD         | Spring Boot + Mustache + Thymeleaf + MyBatis + JPA + MySQL                  |           [SSR](https://github.com/rlatkd/mybatis-jpa)      |   2024.05.27. ~   |
-| 깃랩 러너 CICD 파이프라인        | GitLab Runner + Shell Script + Spring Boot                    |           [gitlab-runner](https://github.com/rlatkd/gitlab-runner)      |   2024. ~   |
 | 고객 관리 시스템v2  | SpringBoot + MySQL + Vue                                                                           |    [management-system-v2](https://github.com/rlatkd/management-system-v2)       |      |
 | Qlik Sense 임베드   | TypeScript                                                                                         |  [qlik-embed](https://github.com/rlatkd/qlik-embed)         |      |
 | Qlik Sense 메시업   | JavaScript                                                                                         |    [qlik-mashup](https://github.com/rlatkd[qlik-mashup)       |      |
-| 깃헙 액션 CICD 파이프라인 | GitHub Actions                                                                                         |           |      |
-| 고객 관리 시스템v1  | Express + React                                                                                    |     [management-system](https://github.com/rlatkd/management-system)      |      |
+| 중고 경매 플랫폼v2  | AWS + CICD + Terraform                                                                             |  [ssgbay-v2](https://github.com/rlatkd/ssgbay-v2)         |      |
+| 중고 경매 플랫폼v1  | Docker + Kubernetes                                                                                |   [ssgbay-v1](https://github.com/rlatkd/ssgbay-v1)        |      |
+| 고객 관리 시스템v1  | Node.js(+Express) + React + Material-UI                                                                                    |     [management-system](https://github.com/rlatkd/management-system)      |      |
 | 의약품 검색엔진     | Python + Pandas                                                                                    |           |      |
 |**------------졸업 논문------------**|**-----------------------------------------------------------**|**---------**|**------**|
 | Convolutional Neural Network를 이용한 간종양 모델 비교연구 | Python + Keras                                                                                     |           |      |
