@@ -22,7 +22,7 @@
 | 중고 경매 플랫폼v0  | Flask + MySQL + React                                                                              |  [ssgbay-v0](https://github.com/rlatkd/ssgbay-v0)         |      |
 | 패션 커뮤니티       | Flask SSR                                                                                          | [fashion-community](https://github.com/rlatkd/fashion-community)  |  2023.08.    |
 |**----------개인 프로젝트---------**|**-----------------------------------------------------------**|**---------**|**------**|
-| 실시간 채팅         | Spring Boot + WebSocket(+STOMP) + Security + JPA(+Hibernate) + MySQL + Apache Kafka + React + Docker Compose                    |           [live-chat](https://github.com/rlatkd/live-chat)      |   2024.05.27. ~   |
+| 실시간 채팅         | Spring Boot + WebSocket(+STOMP) + Security + JPA(+Hibernate) + MySQL + Apache Kafka + React + Docker Compose                    |           [live-chat](https://github.com/rlatkd/live-chat)      |   2024.05.27. ~ 2024.06.02   |
 | 고객 관리 시스템v2  | SpringBoot + MySQL + Vue.js                                                                           |    [management-system-v2](https://github.com/rlatkd/management-system-v2)       |      |
 | Qlik Sense 임베드   | TypeScript                                                                                         |  [qlik-embed](https://github.com/rlatkd/qlik-embed)         |      |
 | Qlik Sense 메시업   | JavaScript                                                                                         |    [qlik-mashup](https://github.com/rlatkd[qlik-mashup)       |      |
