@@ -26,8 +26,8 @@
 | 고객 관리 시스템v2  | SpringBoot + MySQL + Vue.js                                                                           |    [management-system-v2](https://github.com/rlatkd/management-system-v2)       |      |
 | Qlik Sense 임베드   | TypeScript                                                                                         |  [qlik-embed](https://github.com/rlatkd/qlik-embed)         |      |
 | Qlik Sense 메시업   | JavaScript                                                                                         |    [qlik-mashup](https://github.com/rlatkd[qlik-mashup)       |      |
-| 중고 경매 플랫폼v2  | AWS + GitHub CICD + Terraform                                                                             |  [ssgbay-v2](https://github.com/rlatkd/ssgbay-v2)         |      |
-| 중고 경매 플랫폼v1  | Docker + Kubernetes                                                                                |   [ssgbay-v1](https://github.com/rlatkd/ssgbay-v1)        |      |
+| 중고 경매 플랫폼v2  | AWS + GitHub CICD + Terraform                                                                             |  [ssgbay-v2](https://github.com/rlatkd/ssgbay-v2)         | 2023.11.22 ~ 2023.11.28     |
+| 중고 경매 플랫폼v1  | Docker + Kubernetes                                                                                |   [ssgbay-v1](https://github.com/rlatkd/ssgbay-v1)        |   2023.10.26 ~ 2023.11.02   |
 | 고객 관리 시스템v1  | Node.js(+Express) + React + Material-UI                                                                                    |     [management-system](https://github.com/rlatkd/management-system)      |      |
 | 의약품 검색엔진     | Python + Pandas                                                                                    |           |      |
 |**------------졸업 논문----------**|**-----------------------------------------------------------**|**---------**|**------**|
