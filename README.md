@@ -31,7 +31,7 @@
 | 고객 관리 시스템v1  | Node.js(+Express) + React + Material-UI                                                                                    |     [management-system](https://github.com/rlatkd/management-system)      |      |
 | 의약품 검색엔진     | Python + Pandas                                                                                    |           |      |
 |**------------졸업 논문----------**|**-----------------------------------------------------------**|**---------**|**------**|
-| Convolutional Neural Network를 이용한 간종양 모델 비교연구 | Python + Keras                                                                                     |           |      |
+| Convolutional Neural Network를 이용한 간종양 모델 비교연구 | Python + Keras                                                                                     |           |  2022.03.02 ~ 2022.06.30    |
 |**----------학부 프로젝트-------**|**-----------------------------------------------------------**|**---------**|**------**|
 | 의공해석 프로그램   | Python + Scikit-Learn                                                                              |          |      |
 | CT 이미지 재구성    | MATLAB                                                                                             |    [ct-image-reconstruction](https://github.com/rlatkd/ct-image-reconstruction)       |      |
