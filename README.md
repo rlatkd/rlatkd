@@ -1,16 +1,4 @@
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlatkd&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application&include_all_commits=true&hide=css,html" width=38% />
-</a> -->
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=rlatkd&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-</a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rlatkd&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-</a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rlatkd"/>
-</a> -->
 
 
 |                                                        |기술 스택                                                                                                    | 링크                                                                       | 기간                  |
@@ -40,5 +28,5 @@
 
 
 ## 🏆수상
-- 신세계아이앤씨 클라우드 엔지니어 양성 과정 파이널 프로젝트 최우수 (2024.02)
-- 신세계아이앤씨 클라우드 엔지니어 양성 과정 우수 교육생 (2024.02)
+- 신세계아이앤씨 클라우드 엔지니어 양성 과정 파이널 프로젝트 최우수상 (2024.02)
+- 신세계아이앤씨 클라우드 엔지니어 양성 과정 수료생 우수상 (2024.02)
