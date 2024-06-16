@@ -1,6 +1,6 @@
 ## 👨🏽‍🎓학부
 - 경희대학교 국제캠퍼스 생체의공학과 졸업 (2023.02.)
-  - 학사졸업논문 [*Convolutional Neural Network를 이용한 Liver Tumor 모델 비교연구 (2022.06.)*]
+  - 학사졸업논문 ***Convolutional Neural Network를 이용한 Liver Tumor 모델 비교연구 (2022.06.)***
 
 ## 📚교육
 - 효성에프엠에스 풀스택 개발자 양성과정 1기 (2024.02. ~ 진행중)
