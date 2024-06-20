@@ -14,22 +14,23 @@
 ## PROJECTS
 - 팀 프로젝트
   - [풋살 자동매칭 서비스](https://github.com/rlatkd/match5)
-  - 효성은행
-  - MSA 기반 웹 POS 서비스
-  - 중고 경매 플랫폼v0
-  - 패션 커뮤니티
+  - [효성은행](https://github.com/rlatkd/hs-bank)
+  - [MSA 기반 웹 POS 서비스](https://github.com/rlatkd/salesync)
+  - [중고 경매 플랫폼v0](https://github.com/rlatkd/ssgbay-v0)
+  - [패션 커뮤니티](https://github.com/rlatkd/fashion-community)
 - 개인 프로젝트
-  - 실시간 채팅 플랫폼
-  - 고객 관리 시스템v2
-  - Qlik Sense 임베드
-  - Qlik Sense 메시업
-  - 중고 경매 플랫폼v2
-  - 중고 경매 플랫폼v1
-  - 고객 관리 시스템v1
+  - [모니터링 시스템](https://github.com/rlatkd/monitoring-system)
+  - [실시간 채팅 플랫폼](https://github.com/rlatkd/live-chat)
+  - [고객 관리 시스템v2](https://github.com/rlatkd/management-system-v2)
+  - [Qlik Sense 임베드](https://github.com/rlatkd/qlik-embed)
+  - [Qlik Sense 메시업](https://github.com/rlatkd[qlik-mashup)
+  - [중고 경매 플랫폼v2](https://github.com/rlatkd/ssgbay-v2)
+  - [중고 경매 플랫폼v1](https://github.com/rlatkd/ssgbay-v1)
+  - [고객 관리 시스템v1](https://github.com/rlatkd/management-system)
   - 의약품 검색엔진
 - 학부 프로젝트
   - 의공해석 프로그램
-  - CT 이미지 재구성
+  - [CT 이미지 재구성](https://github.com/rlatkd/ct-image-reconstruction)
   - 보폭에 따른 하체 신경 분석 시스템
 
 <!--
