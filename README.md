@@ -1,5 +1,5 @@
 ## 👨🏽‍🎓 education
-- 경희대학교 생체의공학과 졸업 (2023.02.)
+- 경희대학교 생체의공학과 졸업 2023.02.
   - 학사졸업논문 ***Convolutional Neural Network를 이용한 Liver Tumor 모델 비교 연구*** (2022.06.)
 
 ## 📚 training
