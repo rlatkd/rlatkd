@@ -13,25 +13,25 @@
 
 ## [PROJECTS]
 - 팀 프로젝트
-  - [풋살 자동매칭 서비스](https://github.com/rlatkd/match5) 2024.05.09 ~ 2024.05.17
-  - [효성은행](https://github.com/rlatkd/hs-bank) 2024.03.21 ~ 2024.03.27
-  - [MSA 기반 웹 POS 서비스](https://github.com/rlatkd/salesync) 2023.12.04 ~ 2024.02.01
-  - [중고 경매 플랫폼v0](https://github.com/rlatkd/ssgbay-v0) 2023.10.26 ~ 2023.10.28
-  - [패션 커뮤니티](https://github.com/rlatkd/fashion-community) 2023.09.01 ~ 2023.09.08
+  - [풋살 자동매칭 서비스](https://github.com/rlatkd/match5)
+  - [효성은행](https://github.com/rlatkd/hs-bank)
+  - [MSA 기반 웹 POS 서비스](https://github.com/rlatkd/salesync)
+  - [중고 경매 플랫폼v0](https://github.com/rlatkd/ssgbay-v0)
+  - [패션 커뮤니티](https://github.com/rlatkd/fashion-community)
 - 개인 프로젝트
-  - [모니터링 시스템](https://github.com/rlatkd/monitoring-system) 2024.06.03 ~ 2024.06.10
-  - [실시간 채팅 플랫폼](https://github.com/rlatkd/live-chat) 2024.05.27 ~ 2024.06.02
-  - [고객 관리 시스템v2](https://github.com/rlatkd/management-system-v2) 2024.02.05 ~ 2025.02.25
-  - [Qlik Sense 임베드](https://github.com/rlatkd/qlik-embed) 2023.11.20 ~ 2023.12.01
-  - [Qlik Sense 메시업](https://github.com/rlatkd/qlik-mashup) 2023.11.20 ~ 2023.12.01
-  - [중고 경매 플랫폼v2](https://github.com/rlatkd/ssgbay-v2) 2023.11.22 ~ 2023.11.28
-  - [중고 경매 플랫폼v1](https://github.com/rlatkd/ssgbay-v1) 2023.10.29 ~ 2023.11.02
-  - [고객 관리 시스템v1](https://github.com/rlatkd/management-system) 2023.10.16 ~ 2023.10.20
-  - 의약품 검색엔진 2022.03.02 ~ 2022.06.30
+  - [모니터링 시스템](https://github.com/rlatkd/monitoring-system)
+  - [실시간 채팅 플랫폼](https://github.com/rlatkd/live-chat)
+  - [고객 관리 시스템v2](https://github.com/rlatkd/management-system-v2)
+  - [Qlik Sense 임베드](https://github.com/rlatkd/qlik-embed)
+  - [Qlik Sense 메시업](https://github.com/rlatkd/qlik-mashup)
+  - [중고 경매 플랫폼v2](https://github.com/rlatkd/ssgbay-v2)
+  - [중고 경매 플랫폼v1](https://github.com/rlatkd/ssgbay-v1)
+  - [고객 관리 시스템v1](https://github.com/rlatkd/management-system)
+  - 의약품 검색엔진
 - 학부 프로젝트
-  - 의공해석 프로그램 2022.05.02 ~ 2022.06.30
-  - [CT 이미지 재구성](https://github.com/rlatkd/ct-image-reconstruction) 2022.11.01 ~ 2022.12.30
-  - 보폭에 따른 하체 신경 분석 시스템 2022.05.02 ~ 2022.06.30
+  - 의공해석 프로그램
+  - [CT 이미지 재구성](https://github.com/rlatkd/ct-image-reconstruction)
+  - 보폭에 따른 하체 신경 분석 시스템
 
 <!--
 |                                                        |기술 스택                                                                                                    | 링크                                                                       | 기간                  |일수|
