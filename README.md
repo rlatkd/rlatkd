@@ -26,9 +26,7 @@
   - [중고 경매 플랫폼v1](https://github.com/rlatkd/ssgbay-v1)
   - [고객 관리 시스템v1](https://github.com/rlatkd/management-system)
 - 학부 프로젝트
-  - 의공해석 프로그램
   - [CT 이미지 재구성](https://github.com/rlatkd/ct-image-reconstruction)
-  - 보폭에 따른 하체 신경 분석 시스템
 
 <!--
 |                                                        |기술 스택                                                                                                    | 링크                                                                       | 기간                  |일수|
