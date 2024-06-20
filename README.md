@@ -23,7 +23,7 @@
   - [실시간 채팅 플랫폼](https://github.com/rlatkd/live-chat)
   - [고객 관리 시스템v2](https://github.com/rlatkd/management-system-v2)
   - [Qlik Sense 임베드](https://github.com/rlatkd/qlik-embed)
-  - [Qlik Sense 메시업](https://github.com/rlatkd[qlik-mashup)
+  - [Qlik Sense 메시업](https://github.com/rlatkd/qlik-mashup)
   - [중고 경매 플랫폼v2](https://github.com/rlatkd/ssgbay-v2)
   - [중고 경매 플랫폼v1](https://github.com/rlatkd/ssgbay-v1)
   - [고객 관리 시스템v1](https://github.com/rlatkd/management-system)
