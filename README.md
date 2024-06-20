@@ -11,7 +11,7 @@
   - 파이널 프로젝트 최우수상 (2024.02.)
   - 교육생 우수상 (2024.02.)
 
-## PROJECTS
+## [PROJECTS]
 - 팀 프로젝트
   - [풋살 자동매칭 서비스](https://github.com/rlatkd/match5)
   - [효성은행](https://github.com/rlatkd/hs-bank)
