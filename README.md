@@ -25,7 +25,6 @@
   - [중고 경매 플랫폼v2](https://github.com/rlatkd/ssgbay-v2)
   - [중고 경매 플랫폼v1](https://github.com/rlatkd/ssgbay-v1)
   - [고객 관리 시스템v1](https://github.com/rlatkd/management-system)
-  - 의약품 검색 엔진
 - 학부 프로젝트
   - 의공해석 프로그램
   - [CT 이미지 재구성](https://github.com/rlatkd/ct-image-reconstruction)
