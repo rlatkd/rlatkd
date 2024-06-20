@@ -1,6 +1,6 @@
 ## 👨🏽‍🎓 education
 - 경희대학교 생체의공학과 졸업 (2023.02.)
-- 학사졸업논문 ***Convolutional Neural Network를 이용한 Liver Tumor 모델 비교 연구*** (2022.06.)
+  - 학사졸업논문 ***Convolutional Neural Network를 이용한 Liver Tumor 모델 비교 연구*** (2022.06.)
 
 ## 📚 training
 - 효성에프엠에스 풀스택 개발자 양성과정 1기 수료 예정 (2024.08.)
@@ -11,9 +11,9 @@
   - 파이널 프로젝트 최우수상 (2024.02.)
   - 교육생 우수상 (2024.02.)
 
-## projects
+## PROJECTS
 - 팀 프로젝트
-  - 풋살 자동매칭 서비스
+  - 풋살 자동매칭 서비스(https://github.com/rlatkd/match5)
   - 효성은행
   - MSA 기반 웹 POS 서비스
   - 중고 경매 플랫폼v0
