@@ -13,9 +13,9 @@
 
 ## [PROJECTS]
 - 팀 프로젝트
-  - [풋살 자동매칭 서비스](https://github.com/rlatkd/match5)
-  - [효성은행](https://github.com/rlatkd/hs-bank)
-  - [MSA 기반 웹 POS 서비스](https://github.com/rlatkd/salesync)
+  - [풋살 자동매칭 서비스](https://github.com/rlatkd/match5) (2024.05.09 ~ 2024.05.17)
+  - [효성은행](https://github.com/rlatkd/hs-bank) (2024.03.21 ~ 2024.03.27)
+  - [MSA 기반 웹 POS 서비스](https://github.com/rlatkd/salesync) (2023.12.04 ~ 2024.02.01)
   - [중고 경매 플랫폼v0](https://github.com/rlatkd/ssgbay-v0)
   - [패션 커뮤니티](https://github.com/rlatkd/fashion-community)
 - 개인 프로젝트
