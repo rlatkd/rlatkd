@@ -13,7 +13,7 @@
 
 ## PROJECTS
 - 팀 프로젝트
-  - 풋살 자동매칭 서비스(https://github.com/rlatkd/match5)
+  - [풋살 자동매칭 서비스](https://github.com/rlatkd/match5)
   - 효성은행
   - MSA 기반 웹 POS 서비스
   - 중고 경매 플랫폼v0
