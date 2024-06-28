@@ -15,7 +15,7 @@
 - 팀 프로젝트
   - [효성 CMS+](https://github.com/rlatkd/cms-plus)
   - [풋살 자동매칭 서비스](https://github.com/rlatkd/match5)
-  - [효성 은행](https://github.com/rlatkd/hs-bank)
+  - [인터넷 뱅킹 시스템](https://github.com/rlatkd/hs-bank)
   - [MSA 기반 웹 POS 서비스](https://github.com/rlatkd/salesync)
   - [중고 경매 플랫폼v0](https://github.com/rlatkd/ssgbay-v0)
   - [패션 커뮤니티](https://github.com/rlatkd/fashion-community)
