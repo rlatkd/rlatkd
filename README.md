@@ -11,7 +11,7 @@
   - 파이널 프로젝트 최우수상 (2024.02.)
   - 교육생 우수상 (2024.02.)
 
-## ❔⁉Interest
+## ❔ Interest
 - Apache Kafka
 - Elasticsearch
 - GraphQL
