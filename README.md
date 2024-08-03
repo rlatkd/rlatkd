@@ -12,10 +12,11 @@
   - 교육생 우수상 (2024.02.)
 
 ## ❔ Interest
-- Apache Kafka
+- Kafka
 - Elasticsearch
 - GraphQL
 - InfluxDB
+- Thrift
 - Next.js
 
 ## ✔ etc
