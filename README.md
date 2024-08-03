@@ -28,6 +28,10 @@
   - [고객 관리 시스템v1](https://github.com/rlatkd/management-system)
 - 학부 프로젝트
   - [CT 이미지 재구성](https://github.com/rlatkd/ct-image-reconstruction)
+ 
+## 1️⃣ 1DAY 1COMMIT
+- 1일 1알고리즘
+  - [1day-1commit](https://github.com/rlatkd/1day-1commit)
 
 <!--
 |                                                        |기술 스택                                                                                                    | 링크                                                                       | 기간                  |일수|
