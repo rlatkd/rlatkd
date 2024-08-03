@@ -20,7 +20,7 @@
 - Next.js
 
 ## ✔ etc
-- Today I Learned & Algorithm
+- Today I Learned & Solve Algorithms
   - [1day-1commit](https://github.com/rlatkd/1day-1commit)
 
 ## PROJECTS
