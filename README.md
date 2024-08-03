@@ -23,7 +23,7 @@
 - Today I Learned & Solved Algorithms
   - [1day-1commit](https://github.com/rlatkd/1day-1commit)
 
-## PROJECTS
+## PROJECT
 - 장기 프로젝트
   - [자동 청구/결제 솔루션](https://github.com/rlatkd/cms-plus)
   - [MSA 기반 웹 POS 서비스](https://github.com/rlatkd/salesync)
