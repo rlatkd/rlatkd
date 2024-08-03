@@ -11,6 +11,10 @@
   - 파이널 프로젝트 최우수상 (2024.02.)
   - 교육생 우수상 (2024.02.)
 
+## 1️⃣ etc
+- Today I Learned & Algorithm
+  - [1day-1commit](https://github.com/rlatkd/1day-1commit)
+
 ## PROJECTS
 - 팀 프로젝트
   - [자동 청구수납 솔루션](https://github.com/rlatkd/cms-plus)
@@ -29,9 +33,6 @@
 - 학부 프로젝트
   - [CT 이미지 재구성](https://github.com/rlatkd/ct-image-reconstruction)
  
-## 1️⃣ 1DAY 1COMMIT
-- 1일 1알고리즘
-  - [1day-1commit](https://github.com/rlatkd/1day-1commit)
 
 <!--
 |                                                        |기술 스택                                                                                                    | 링크                                                                       | 기간                  |일수|
