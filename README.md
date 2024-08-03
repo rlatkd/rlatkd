@@ -11,6 +11,13 @@
   - 파이널 프로젝트 최우수상 (2024.02.)
   - 교육생 우수상 (2024.02.)
 
+## ❔⁉Interest
+- Apache Kafka
+- Elasticsearch
+- GraphQL
+- InfluxDB
+- Next.js
+
 ## ✔ etc
 - Today I Learned & Algorithm
   - [1day-1commit](https://github.com/rlatkd/1day-1commit)
