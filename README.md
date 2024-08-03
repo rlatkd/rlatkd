@@ -1,4 +1,4 @@
-## 👨🏽‍🎓 bachelor
+## 👨‍🎓 bachelor
 - 경희대학교 생체의공학 공학사 (2023.02.)
   - [졸업논문] ***Convolutional Neural Network를 이용한 Liver Tumor 모델 비교 연구*** (2022.06.)
 
@@ -11,7 +11,7 @@
   - 파이널 프로젝트 최우수상 (2024.02.)
   - 교육생 우수상 (2024.02.)
 
-## 1️⃣ etc
+## ✔ etc
 - Today I Learned & Algorithm
   - [1day-1commit](https://github.com/rlatkd/1day-1commit)
 
