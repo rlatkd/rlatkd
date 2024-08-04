@@ -17,6 +17,7 @@
 - GraphQL
 - InfluxDB
 - Thrift
+- Kubernetes
 - Next.js
 
 ## etc
