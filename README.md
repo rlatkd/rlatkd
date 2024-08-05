@@ -20,10 +20,6 @@
 - Kubernetes
 - Next.js
 
-## etc
-- Today I Learned & Solved Algorithms
-  - [1day-1commit](https://github.com/rlatkd/1day-1commit)
-
 ## PROJECT
 - 장기 프로젝트
   - [자동 청구/결제 솔루션](https://github.com/rlatkd/cms-plus)
@@ -42,6 +38,10 @@
   - [고객 관리 시스템v1](https://github.com/rlatkd/management-system)
 - 학부 프로젝트
   - [CT 이미지 재구성](https://github.com/rlatkd/ct-image-reconstruction)
+
+## etc
+- Today I Learned & Solved Algorithms
+  - [1day-1commit](https://github.com/rlatkd/1day-1commit)
  
 <!--
 |                                                        |기술 스택                                                                                                    | 링크                                                                       | 기간                  |일수|
