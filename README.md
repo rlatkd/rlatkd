@@ -20,7 +20,7 @@
 - Kubernetes
 - Next.js
 
-## PROJECT
+## projects
 - 장기 프로젝트
   - [자동 청구/결제 솔루션](https://github.com/rlatkd/cms-plus)
   - [MSA 기반 웹 POS 서비스](https://github.com/rlatkd/salesync)
