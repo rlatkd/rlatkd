@@ -1,5 +1,5 @@
 ## career
-- 효성에프엠에스 (2024.09 ~ )
+- HyosungFMS Backend Developer (2024.09 ~ )
 
 ## bachelor
 - 경희대학교 생체의공학 공학사 (2023.02)
