@@ -1,5 +1,5 @@
 ## career
-- HyosungFMS Backend Engineer (2024.09 ~ )
+- Hyosung FMS Inc. Backend Engineer (2024.09 ~ )
 
 ## bachelor
 - 경희대학교 생체의공학 공학사 (2023.02)
