@@ -63,3 +63,14 @@
 ## etc
 - Today I Learned & Solved Algorithms
   - [1day-1commit](https://github.com/rlatkd/1day-1commit)
+- practices
+  - [Kafka Streams](https://github.com/rlatkd/kafka-streams)
+  - [Mybatis & JPA](https://github.com/rlatkd/mybatis-jpa)
+  - [GitLab Runner](https://github.com/rlatkd/gitlab-runner)
+  - [JDBC](https://github.com/rlatkd/jdbc)
+  - [Design Pattern](https://github.com/rlatkd/design-pattern)
+  - [Qlik Sense Embed](https://github.com/rlatkd/qlik-embed)
+  - [Qlik Sense Mashup](https://github.com/rlatkd/qlik-mashup)
+  - [Dockerize](https://github.com/rlatkd/ssgbay-dockerize)
+  - [CI/CD](https://github.com/rlatkd/cicd-react)
+  - [Terraform](https://github.com/rlatkd/terraform)
