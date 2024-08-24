@@ -1,6 +1,3 @@
-## career
-- Hyosung FMS Inc. Backend Engineer (2024.09 ~ )
-
 ## bachelor
 - 경희대학교 생체의공학 공학사 (2023.02)
   - [졸업논문] ***Convolutional Neural Network를 이용한 Liver Tumor 모델 비교 연구*** (2022.06)
