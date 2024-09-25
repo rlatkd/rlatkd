@@ -1,5 +1,5 @@
 ## career
-- Hyosung FMS Inc.
+- Hyosung FMS Inc. <br> Application Platform 팀 | CMS+ Development 파트
   - Full Stack Engineer (2024.09 ~ )
 
 ## bachelor
