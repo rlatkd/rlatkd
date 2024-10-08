@@ -1,6 +1,6 @@
 ## career
 - Hyosung FMS Inc. <br> Application Platform | CMS+ Development
-  - Software Engineer (BE&FE) (2024.09 ~ )
+  - Software Engineer (BE & FE) (2024.09 ~ )
 
 ## bachelor
 - 경희대학교 생체의공학 공학사 (2023.02)
