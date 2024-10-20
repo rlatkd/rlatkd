@@ -1,24 +1,25 @@
 ## career
 - Hyosung FMS Inc. <br> Application Platform | CMS+ Development
-  - Software Engineer (BE & FE) (2024.09 ~ )
+  - Software Engineer (BE & FE) (2024.09. ~ )
+    - CMS+ 전자계약 서비스 (2024.09.26. ~ )
 
 ## bachelor
 - 경희대학교 생체의공학 공학사 (2023.02)
-  - [졸업논문] ***Convolutional Neural Network를 이용한 Liver Tumor 모델 비교 연구*** (2022.06)
+  - [졸업논문] ***Convolutional Neural Network를 이용한 Liver Tumor 모델 비교 연구*** (2022.06.)
 
 ## trainings
-- 효성에프엠에스 풀스택 개발자 양성과정 1기 [수료] (2024.08)
-- 신세계아이앤씨 클라우드 엔지니어 양성과정 2기 [수료] (2024.02)
+- 효성에프엠에스 풀스택 개발자 양성과정 1기 [수료] (2024.08.)
+- 신세계아이앤씨 클라우드 엔지니어 양성과정 2기 [수료] (2024.02.)
 
 ## awards
 - 정보통신기획평가원 SW 우수성과 컨퍼런스
-  - 우수상 (2024.08)
+  - 우수상 (2024.08.)
 - 효성에프엠에스 풀스택 개발자 양성과정 1기
-  - [파이널 프로젝트](https://github.com/rlatkd/cms-plus) 최우수상 (2024.08)
-  - 우수 수료생 (2024.08)
+  - [파이널 프로젝트](https://github.com/rlatkd/cms-plus) 최우수상 (2024.08.)
+  - 우수 수료생 (2024.08.)
 - 신세계아이앤씨 클라우드 엔지니어 양성과정 2기
-  - [파이널 프로젝트](https://github.com/rlatkd/salesync) 최우수상 (2024.02)
-  - 우수 수료생 (2024.02)
+  - [파이널 프로젝트](https://github.com/rlatkd/salesync) 최우수상 (2024.02.)
+  - 우수 수료생 (2024.02.)
 
 ## interests
 - Kafka
