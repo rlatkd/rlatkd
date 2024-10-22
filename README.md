@@ -1,3 +1,5 @@
+a long way to go...
+
 ## career
 - [Hyosung FMS Inc.](https://www.hyosungfms.com/) <br> Application Platform | [CMS+](https://www.cms.co.kr/) Development
   - Software Engineer (BE & FE) (2024.09. ~ )
