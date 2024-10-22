@@ -22,6 +22,7 @@
   - 우수 수료생 (2024.02.)
 
 ## interests
+- JPA & QueryDSL (most recently)
 - Kafka
 - Elasticsearch
 - GraphQL
