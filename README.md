@@ -1,7 +1,16 @@
+# v2
+
 ## career
 - [Hyosung FMS Inc.](https://www.hyosungfms.com/) <br> Application Platform | [CMS+](https://www.cms.co.kr/) Development
   - Software Engineer (BE & FE) (2024.09. ~ )
     - [전자계약](https://sign2gether.com/) (2024.09.26. ~ )
+
+## interests
+- JPA & QueryDSL
+- Design Pattern
+- RESTful API
+
+# v1
 
 ## bachelor
 - 경희대학교 생체의공학 공학사 (2023.02)
@@ -22,7 +31,6 @@
   - 우수 수료생 (2024.02.)
 
 ## interests
-- JPA & QueryDSL (most recently)
 - Kafka
 - Elasticsearch
 - GraphQL
