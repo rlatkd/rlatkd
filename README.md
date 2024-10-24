@@ -6,9 +6,9 @@
     - [전자계약](https://sign2gether.com/) (2024.09.26. ~ )
 
 ## interests
-- JPA & QueryDSL
-- Design Pattern
-- RESTful API
+- JPA / QueryDSL
+- Spring Security / OAuth 2.0
+- Hexagonal Architecture
 
 # v1
 
