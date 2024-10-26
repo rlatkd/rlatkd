@@ -1,6 +1,6 @@
 ## career
 - [Hyosung FMS Inc.](https://www.hyosungfms.com/) <br> Application Platform | [CMS+](https://www.cms.co.kr/) Development
-  - Software Engineer (full-stack) (2024.09. ~ )
+  - Software Engineer (BE|FE) (2024.09. ~ )
 
     <details>
       <summary>전자계약 (2024.09.26. ~ )
