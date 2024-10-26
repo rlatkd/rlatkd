@@ -2,7 +2,7 @@
 - [Hyosung FMS Inc.](https://www.hyosungfms.com/) <br> Application Platform | [CMS+](https://www.cms.co.kr/) Development
   - Software Engineer (full-stack) (2024.09. ~ )
 
-    - <details>
+    <details>
       <summary>[전자계약](https://sign2gether.com/) (2024.09.26. ~ )</summary>
       
       - 프로젝트 설계서 검토 및 수정
