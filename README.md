@@ -3,7 +3,7 @@
   - Software Engineer (full-stack) (2024.09. ~ )
 
     - <details>
-    - <summary>[전자계약](https://sign2gether.com/) (2024.09.26. ~ )</summary>
+      <summary>[전자계약](https://sign2gether.com/) (2024.09.26. ~ )</summary>
       
       - 프로젝트 설계서 검토 및 수정
       - PCL 작성 및 시나리오 테스트
