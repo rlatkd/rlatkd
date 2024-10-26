@@ -2,6 +2,17 @@
 - [Hyosung FMS Inc.](https://www.hyosungfms.com/) <br> Application Platform | [CMS+](https://www.cms.co.kr/) Development
   - Software Engineer (BE & FE) (2024.09. ~ )
     - [전자계약](https://sign2gether.com/) (2024.09.26. ~ )
+      - 프로젝트 설계서 검토 및 수정
+      - PCL 작성 및 테스트
+      - 전자계약 서비스 화면 개발
+        - BE
+          - RESTful API 설계 및 개발
+          - External API 연동
+          - JWT & OAuth 2.0 인증 프로세스
+          - 데이터 조회 성능 개선 및 불변성 적용
+        - FE
+          - 개발 및 퍼블리싱
+          - Axios 클로저 개선
 
 ## bachelor
 - 경희대학교 생체의공학 공학사 (2023.02)
