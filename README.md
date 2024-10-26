@@ -5,7 +5,6 @@
     <details>
       <summary>전자계약 (2024.09.26. ~ )</summary>
       
-
       - 프로젝트 설계서 검토 및 수정
       - PCL 작성 및 시나리오 테스트
       - 전자계약 서비스 화면 개발
@@ -21,7 +20,7 @@
           - Axios 클로저 개선
         - QA
           - QA 대응
-      ** [Service Link](https://sign2gether.com/) **
+      - ***[전자계약](https://sign2gether.com/)***
           
     </details>
 
