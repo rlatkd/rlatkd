@@ -1,6 +1,8 @@
 ## career
 - [Hyosung FMS Inc.](https://www.hyosungfms.com/) <br> Application Platform | [CMS+](https://www.cms.co.kr/) Development
   - Software Engineer (full-stack) (2024.09. ~ )
+    - <details>
+    - <summary>[전자계약](https://sign2gether.com/) (2024.09.26. ~ )</summary>
     - [전자계약](https://sign2gether.com/) (2024.09.26. ~ )
       - 프로젝트 설계서 검토 및 수정
       - PCL 작성 및 시나리오 테스트
@@ -17,6 +19,7 @@
           - Axios 클로저 개선
         - QA
           - QA 대응
+    - </details>
 
 ## bachelor
 - 경희대학교 생체의공학 공학사 (2023.02)
