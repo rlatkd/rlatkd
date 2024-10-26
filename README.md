@@ -4,6 +4,7 @@
 
     <details>
       <summary>전자계약 (2024.09.26. ~ )</summary>
+      
       ### [Service Link](https://sign2gether.com/) ###
       - 프로젝트 설계서 검토 및 수정
       - PCL 작성 및 시나리오 테스트
