@@ -3,13 +3,14 @@
   - Software Engineer (BE & FE) (2024.09. ~ )
     - [전자계약](https://sign2gether.com/) (2024.09.26. ~ )
       - 프로젝트 설계서 검토 및 수정
-      - PCL 작성 및 테스트
+      - PCL 작성 및 시나리오 테스트
       - 전자계약 서비스 화면 개발
         - BE
           - RESTful API 설계 및 개발
           - External API 연동
           - JWT & OAuth 2.0 인증 프로세스
           - 데이터 조회 성능 개선 및 불변성 적용
+          - 테스트 코드 작성
         - FE
           - 개발 및 퍼블리싱
           - Axios 클로저 개선
