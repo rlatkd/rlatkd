@@ -11,12 +11,12 @@
         - BE
           - RESTful API 설계 및 개발
           - External API 연동
-          - 사용자 정보 Legacy 동기화 프로세스
           - JWT & OAuth 2.0 인증 구현
           - 데이터 불변성 적용 및 조회 성능 개선
           - 테스트 코드 작성
         - FE
           - 개발 및 퍼블리싱
+          - 사용자 정보 Legacy 동기화 프로세스
           - VeeValidate 유효성 검증 적용
           - Axios 클로저 개선
         - QA
