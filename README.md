@@ -11,6 +11,7 @@
         - BE
           - RESTful API 설계 및 개발
           - External API 연동
+          - 사용자 정보 Legacy 동기화 작업
           - JWT & OAuth 2.0 인증 프로세스
           - 데이터 불변성 적용 및 조회 성능 개선
           - 테스트 코드 작성
