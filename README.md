@@ -19,7 +19,7 @@
         - FE
           - 개발 및 퍼블리싱
           - VeeValidate 유효성 검증 적용
-          - Axios 클로저 개선
+          - Axios 클로저 개선 및 Exception 커스텀
         - QA
           - QA 대응
       - ***[전자계약](https://sign2gether.com/)***
