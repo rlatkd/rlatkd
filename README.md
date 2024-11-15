@@ -15,11 +15,13 @@
           - JWT & OAuth 2.0 인증 구현
           - 데이터 불변성 적용 및 조회 성능 개선
           - 사용자 정보 Legacy & Session 동기화
+          - 대량 회원 계약 데이터 CRUD 배치 구현
           - 테스트 코드 작성
         - FE
           - 개발 및 퍼블리싱
           - VeeValidate 유효성 검증 적용
           - Axios 클로저 개선 및 Exception 커스텀
+          - 정적 렌더링 컴포넌트 이벤트 로직 개선
         - QA
           - QA 대응
       - ***[전자계약](https://sign2gether.com/)***
