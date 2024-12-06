@@ -22,6 +22,7 @@
           - VeeValidate 유효성 검증 적용
           - Axios 클로저 개선 및 Exception 커스텀
           - 정적 렌더링 컴포넌트 이벤트 로직 개선
+          - 이메일 인증 로직 공통화
         - QA
           - QA 대응
       - ***[전자계약](https://sign2gether.com/)***
