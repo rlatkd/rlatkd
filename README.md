@@ -112,20 +112,27 @@
 
 ## projects
 
- <details>
+<details>
   <summary>장기 프로젝트</summary>
 
   - [자동 청구/결제 솔루션](https://github.com/rlatkd/cms-plus)
   - [MSA 기반 웹 POS 서비스](https://github.com/rlatkd/salesync)
 
-  </details>
+</details>
 
-- 팀 프로젝트
+<details>
+  <summary>장기 프로젝트</summary>
+
   - [풋살 자동매칭 서비스](https://github.com/rlatkd/match5)
   - [인터넷 뱅킹 시스템](https://github.com/rlatkd/hs-bank)
   - [중고 경매 플랫폼v0](https://github.com/rlatkd/ssgbay-v0)
   - [패션 커뮤니티](https://github.com/rlatkd/fashion-community)
-- 개인 프로젝트
+
+</details>
+ 
+<details>
+  <summary>개인 프로젝트</summary>
+   
   - [견고한 결제 시스템](https://github.com/rlatkd/rubust-payment-system) (in progress)
   - [블로그](https://github.com/rlatkd/katalog) (in progress)
   - [모니터링 시스템](https://github.com/rlatkd/monitoring-system)
@@ -134,8 +141,15 @@
   - [중고 경매 플랫폼v2](https://github.com/rlatkd/ssgbay-v2)
   - [중고 경매 플랫폼v1](https://github.com/rlatkd/ssgbay-v1)
   - [고객 관리 시스템v1](https://github.com/rlatkd/management-system)
-- 학부 프로젝트
+
+
+
+<details>
+  <summary>학부 프로젝트</summary>
+   
   - [CT 이미지 재구성](https://github.com/rlatkd/ct-image-reconstruction)
+
+</details>
 
 ## etc
 - Today I Learned & Solved Algorithms
