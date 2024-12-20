@@ -157,6 +157,7 @@
 <details>
   <summary>Database</summary>
 
+  - MongoDB
   - Elasticsearch
   - InfluxDB
   
