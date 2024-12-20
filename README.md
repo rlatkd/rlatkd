@@ -88,7 +88,7 @@
 - 경희대학교 생체의공학 공학사 (2023.02.)
   - [졸업논문] ***Convolutional Neural Network를 이용한 Liver Tumor 모델 비교 연구*** (2022.06.)
 
-## <p>$\huge{\rm{\color{#6580DD}trainings}}$</p>
+## <p>$\huge{\large{\rm{\color{#6580DD}trainings}}}$</p>
 
 - 효성에프엠에스 풀스택 개발자 양성과정 1기 [수료] (2024.08.)
 - 신세계아이앤씨 클라우드 엔지니어 양성과정 2기 [수료] (2024.02.)
@@ -104,7 +104,7 @@
   - [파이널 프로젝트](https://github.com/rlatkd/salesync) 최우수상 (2024.02.)
   - 우수 수료생 (2024.02.)
 
-## <p>$\huge{\large{\rm{\color{#6580DD}projects}}}$</p>
+## <p>$\huge{\large{\rm{\color{#5ad7b7}projects}}}$</p>
 
 <details>
   <summary>장기 프로젝트</summary>
@@ -145,7 +145,7 @@
 
 </details>
 
-## <p>$\huge{\large{\rm{\color{#6580DD}interests}}}$</p>
+## <p>$\huge{\large{\rm{interests}}}$</p>
 
 <details>
   <summary>Backend</summary>
@@ -203,7 +203,7 @@
 
 </details>
 
-## <p>$\huge{\large{\rm{\color{#6580DD}etc}}}$</p>
+## <p>$\huge{\large{\rm{etc}}}$</p>
 
 <details>
   <summary>Today I Learned & Solved Algorithms</summary>
