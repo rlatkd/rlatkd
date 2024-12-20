@@ -1,6 +1,8 @@
 ## career
 - [Hyosung FMS Inc.](https://www.hyosungfms.com/) <br> Application Platform | [CMS+](https://www.cms.co.kr/) Development
   - Software Engineer (BE & FE) (2024.09. ~ )
+    - CMS+ 유지 및 보수
+    - CMS+ 신규 프로젝트
 
     <details>
       <summary>전자계약 (2024.09.26. ~ )</summary>
