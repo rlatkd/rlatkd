@@ -5,7 +5,7 @@
  
       <details>
         
-        <summary>[청구] 청구월/결제일 기간 유효성</summary>
+        <summary>[청구] 청구월/결제일 기간 유효성 (2024.12.11. ~ 2024.12.19.) </summary>
  
         - 청구 > 청구관리
           - 정기청구 생성
@@ -46,7 +46,7 @@
     - CMS+ 신규 프로젝트
 
       <details>
-        <summary>전자계약 (2024.09.26. ~ 2024.01.17)</summary>
+        <summary>전자계약 (2024.09.26. ~ 2024.01.17.)</summary>
 
         - 기획 참여 및 UI/UX 아이디어 제시
         - 프로젝트 설계서 작성 및 검토
@@ -79,12 +79,11 @@
         <summary>국민은행 & 여신금융협회 (미정)</summary>
    
         - 대기중
+          
       <details>
-- 
-    
 
 ## bachelor
-- 경희대학교 생체의공학 공학사 (2023.02)
+- 경희대학교 생체의공학 공학사 (2023.02.)
   - [졸업논문] ***Convolutional Neural Network를 이용한 Liver Tumor 모델 비교 연구*** (2022.06.)
 
 ## trainings
