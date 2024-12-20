@@ -160,8 +160,7 @@
 <details>
   <summary>Frontend</summary>
 
-  - <p>$\it{\color{#DD6565}NO\ INTEREST\ (T^T)}$</p>
-  - NO INTEREST (T^T)
+  - <p>$\it{\color{#DD6565}NO\ INTEREST\ (T\^T)}$</p>
 
 </details>
 
