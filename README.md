@@ -184,6 +184,7 @@
   <summary>DevOps</summary>
 
   - Kubernetes
+  - Jenkins
   - Terraform
 
 </details>
