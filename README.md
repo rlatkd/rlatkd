@@ -101,23 +101,6 @@
   - [파이널 프로젝트](https://github.com/rlatkd/salesync) 최우수상 (2024.02.)
   - 우수 수료생 (2024.02.)
 
-## interests
-
-<details>
-  <summary>interests</summary>
-
-  - JPA
-  - QueryDSL
-  - Kafka
-  - Elasticsearch
-  - GraphQL
-  - InfluxDB
-  - Thrift
-  - Kubernetes
-  - Next.js
-
-</details>
-
 ## projects
 
 <details>
@@ -156,6 +139,23 @@
   <summary>학부 프로젝트</summary>
    
   - [CT 이미지 재구성](https://github.com/rlatkd/ct-image-reconstruction)
+
+</details>
+
+## interests
+
+<details>
+  <summary>interests</summary>
+
+  - JPA
+  - QueryDSL
+  - Kafka
+  - Elasticsearch
+  - GraphQL
+  - InfluxDB
+  - Thrift
+  - Kubernetes
+  - Next.js
 
 </details>
 
