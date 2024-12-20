@@ -4,32 +4,33 @@
     - CMS+ 유지 및 보수
     - CMS+ 신규 프로젝트
 
-    <details>
-      <summary>전자계약 (2024.09.26. ~ )</summary>
 
-      - 기획 참여 및 UI/UX 아이디어 제시
-      - 프로젝트 설계서 작성 및 검토
-      - PCL 작성 및 시나리오 테스트
-      - 전자계약 신청 서비스 개발
-        - BE
-          - RESTful API 설계 및 개발
-          - External API 연동
-          - JWT & OAuth 2.0 인증 구현
-          - 데이터 불변성 적용 및 조회 성능 개선
-          - 사용자 정보 Legacy & Session 동기화
-          - 대량 회원_계약 데이터 Spring Batch 구현
-          - 테스트 코드 작성
-        - FE
-          - 개발 및 퍼블리싱
-          - VeeValidate 유효성 검증 적용
-          - Axios 클로저 개선 및 Exception 커스텀
-          - 정적 렌더링 컴포넌트 이벤트 로직 개선
-          - 이메일 인증 로직 공통화
-        - QA
-          - QA 대응
-      - ***[전자계약](https://sign2gether.com/)***
+      <details>
+        <summary>전자계약 (2024.09.26. ~ )</summary>
+
+        - 기획 참여 및 UI/UX 아이디어 제시
+        - 프로젝트 설계서 작성 및 검토
+        - PCL 작성 및 시나리오 테스트
+        - 전자계약 신청 서비스 개발
+          - BE
+            - RESTful API 설계 및 개발
+            - External API 연동
+            - JWT & OAuth 2.0 인증 구현
+            - 데이터 불변성 적용 및 조회 성능 개선
+            - 사용자 정보 Legacy & Session 동기화
+            - 대량 회원_계약 데이터 Spring Batch 구현
+            - 테스트 코드 작성
+          - FE
+            - 개발 및 퍼블리싱
+            - VeeValidate 유효성 검증 적용
+            - Axios 클로저 개선 및 Exception 커스텀
+            - 정적 렌더링 컴포넌트 이벤트 로직 개선
+            - 이메일 인증 로직 공통화
+          - QA
+            - QA 대응
+        - ***[전자계약](https://sign2gether.com/)***
           
-    </details>
+      </details>
 
 ## bachelor
 - 경희대학교 생체의공학 공학사 (2023.02)
