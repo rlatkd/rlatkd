@@ -91,24 +91,37 @@
 - 신세계아이앤씨 클라우드 엔지니어 양성과정 2기 [수료] (2024.02.)
 
 ## awards
-- 정보통신기획평가원 SW 우수성과 컨퍼런스
-  - 우수상 (2024.08.)
-- 효성에프엠에스 풀스택 개발자 양성과정 1기
-  - [파이널 프로젝트](https://github.com/rlatkd/cms-plus) 최우수상 (2024.08.)
-  - 우수 수료생 (2024.08.)
-- 신세계아이앤씨 클라우드 엔지니어 양성과정 2기
-  - [파이널 프로젝트](https://github.com/rlatkd/salesync) 최우수상 (2024.02.)
-  - 우수 수료생 (2024.02.)
+
+<details>
+  <summary>awards</summary>
+
+  - 정보통신기획평가원 SW 우수성과 컨퍼런스
+    - 우수상 (2024.08.)
+  - 효성에프엠에스 풀스택 개발자 양성과정 1기
+    - [파이널 프로젝트](https://github.com/rlatkd/cms-plus) 최우수상 (2024.08.)
+    - 우수 수료생 (2024.08.)
+  - 신세계아이앤씨 클라우드 엔지니어 양성과정 2기
+    - [파이널 프로젝트](https://github.com/rlatkd/salesync) 최우수상 (2024.02.)
+    - 우수 수료생 (2024.02.)
+
+</details>
 
 ## interests
-- JPA / QueryDSL (most recently)
-- Kafka
-- Elasticsearch
-- GraphQL
-- InfluxDB
-- Thrift
-- Kubernetes
-- Next.js
+
+<details>
+  <summary>interests</summary>
+
+  - JPA
+  - QueryDSL
+  - Kafka
+  - Elasticsearch
+  - GraphQL
+  - InfluxDB
+  - Thrift
+  - Kubernetes
+  - Next.js
+
+</details>
 
 ## projects
 
