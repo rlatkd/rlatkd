@@ -158,19 +158,19 @@
 </details>
 
 <details>
-  <summary>Frontend</summary>
-
-  - <p>$\color{#DD6565}NO\ INTEREST\ (ㅠㅠ)$</p>
-
-</details>
-
-<details>
   <summary>Database</summary>
 
   - MongoDB
   - Elasticsearch
   - InfluxDB
   
+</details>
+
+<details>
+  <summary>Frontend</summary>
+
+  - <p>$\color{#DD6565}NO\ INTEREST\ (ㅠㅠ)$</p>
+
 </details>
 
 <details>
