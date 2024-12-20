@@ -43,7 +43,7 @@
 
       </details>
 
-    - CMS+ 신규 프로젝트
+    - CMS+ 프로젝트
 
       <details>
         <summary>전자계약 (2024.09.26. ~ 2024.01.17.)</summary>
