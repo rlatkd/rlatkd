@@ -111,9 +111,15 @@
 - Next.js
 
 ## projects
-- 장기 프로젝트
+
+ <details>
+  <summary>장기 프로젝트</summary>
+
   - [자동 청구/결제 솔루션](https://github.com/rlatkd/cms-plus)
   - [MSA 기반 웹 POS 서비스](https://github.com/rlatkd/salesync)
+
+  </details>
+
 - 팀 프로젝트
   - [풋살 자동매칭 서비스](https://github.com/rlatkd/match5)
   - [인터넷 뱅킹 시스템](https://github.com/rlatkd/hs-bank)
