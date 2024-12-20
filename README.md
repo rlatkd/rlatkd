@@ -148,6 +148,14 @@
 ## <p>$\huge{\large{\rm{\color{#6580DD}interests}}}$</p>
 
 <details>
+  <summary>Language</summary>
+
+  - Kotlin
+  - TypeScript
+
+</details>
+
+<details>
   <summary>Backend</summary>
 
   - JPA
