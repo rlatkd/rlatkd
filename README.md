@@ -75,12 +75,12 @@
       </details>
 
           
-      </details>
+      <details>
         <summary>국민은행 & 여신금융협회 (미정)</summary>
    
         - 대기중
           
-      <details>
+      </details>
 
 ## bachelor
 - 경희대학교 생체의공학 공학사 (2023.02.)
