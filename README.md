@@ -145,17 +145,50 @@
 ## interests
 
 <details>
-  <summary>interests</summary>
+  <summary>Backend</summary>
 
   - JPA
   - QueryDSL
   - Kafka
-  - Elasticsearch
-  - GraphQL
-  - InfluxDB
   - Thrift
-  - Kubernetes
+
+</details>
+
+<details>
+  <summary>Database</summary>
+
+  - Elasticsearch
+  - InfluxDB
+  
+</details>
+
+<details>
+  <summary>Fullstack</summary>
+
   - Next.js
+
+</details>
+
+<details>
+  <summary>DevOps</summary>
+
+  - Kubernetes
+  - Terraform
+
+</details>
+
+<details>
+  <summary>Architecture</summary>
+
+  - Hexagonal
+
+</details>
+
+<details>
+  <summary>Data Analytics</summary>
+
+  - Tableau
+  - Snowflake
 
 </details>
 
