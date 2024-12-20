@@ -142,7 +142,7 @@
   - [중고 경매 플랫폼v1](https://github.com/rlatkd/ssgbay-v1)
   - [고객 관리 시스템v1](https://github.com/rlatkd/management-system)
 
-
+</details>
 
 <details>
   <summary>학부 프로젝트</summary>
