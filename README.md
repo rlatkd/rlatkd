@@ -121,7 +121,7 @@
 </details>
 
 <details>
-  <summary>장기 프로젝트</summary>
+  <summary>팀 프로젝트</summary>
 
   - [풋살 자동매칭 서비스](https://github.com/rlatkd/match5)
   - [인터넷 뱅킹 시스템](https://github.com/rlatkd/hs-bank)
@@ -152,9 +152,15 @@
 </details>
 
 ## etc
-- Today I Learned & Solved Algorithms
+
+<details>
+  <summary>Today I Learned & Solved Algorithms</summary>
   - [1day-1commit](https://github.com/rlatkd/1day-1commit)
-- practices
+
+</details>
+
+<details>
+  <summary>practices</summary>
   - [Kafka Streams](https://github.com/rlatkd/kafka-streams)
   - [Mybatis & JPA](https://github.com/rlatkd/mybatis-jpa)
   - [GitLab Runner](https://github.com/rlatkd/gitlab-runner)
@@ -165,3 +171,5 @@
   - [Dockerize](https://github.com/rlatkd/ssgbay-dockerize)
   - [CI/CD](https://github.com/rlatkd/cicd-react)
   - [Terraform](https://github.com/rlatkd/terraform)
+
+</details>
