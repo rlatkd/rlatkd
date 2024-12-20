@@ -1,12 +1,18 @@
 ## career
 - [Hyosung FMS Inc.](https://www.hyosungfms.com/) <br> Application Platform | [CMS+](https://www.cms.co.kr/) Development
   - Software Engineer (BE & FE) (2024.09. ~ )
-    - CMS+ 유지 및 보수
+    - CMS+ 유지보수
+ 
+      <details>
+        <summary></summary>
+      </details>
+
+      - 전자계약 홍보 팝업 개발 
     - CMS+ 신규 프로젝트
 
 
       <details>
-        <summary>전자계약 (2024.09.26. ~ )</summary>
+        <summary>전자계약 (2024.09.26. ~ 2024.01.17)</summary>
 
         - 기획 참여 및 UI/UX 아이디어 제시
         - 프로젝트 설계서 작성 및 검토
@@ -27,7 +33,7 @@
             - VeeValidate 유효성 검증 적용
             - Axios 클로저 개선 및 Exception 커스텀
             - 정적 렌더링 컴포넌트 이벤트 로직 개선
-            - 이메일 인증 로직 공통화
+            - 사용자 이메일 인증 로직 공통화
           - QA
             - QA 대응
         - ***[전자계약](https://sign2gether.com/)***
