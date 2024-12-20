@@ -104,7 +104,7 @@
   - [파이널 프로젝트](https://github.com/rlatkd/salesync) 최우수상 (2024.02.)
   - 우수 수료생 (2024.02.)
 
-## <p>$\huge{\large{\rm{\color{#5ad7b7}projects}}}$</p>
+## <p>$\huge{\large{\rm{\color{#6580DD}projects}}}$</p>
 
 <details>
   <summary>장기 프로젝트</summary>
@@ -145,7 +145,7 @@
 
 </details>
 
-## <p>$\huge{\large{\rm{interests}}}$</p>
+## <p>$\huge{\large{\rm{\color{#6580DD}interests}}}$</p>
 
 <details>
   <summary>Backend</summary>
@@ -203,7 +203,7 @@
 
 </details>
 
-## <p>$\huge{\large{\rm{etc}}}$</p>
+## <p>$\huge{\large{\rm{\color{#6580DD}etc}}}$</p>
 
 <details>
   <summary>Today I Learned & Solved Algorithms</summary>
