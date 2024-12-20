@@ -169,7 +169,7 @@
 <details>
   <summary>Frontend</summary>
 
-  - <p>$\color{#DD6565}NO\ INTEREST\ (ㅠㅠ)$</p>
+  - $\color{#DD6565}NO\ INTEREST\ (ㅠㅠ)$
 
 </details>
 
