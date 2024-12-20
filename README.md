@@ -157,7 +157,8 @@
 <details>
   <summary>Frontend</summary>
 
-  - T^T
+  <p>$\it{\large{\color{#DD6565}이텔릭체,\ 큰글씨,\ 빨간색}}$</p>
+  - NO INTEREST (T^T)
 
 </details>
 
