@@ -120,8 +120,8 @@
   - [중고 경매 플랫폼v0](https://github.com/rlatkd/ssgbay-v0)
   - [패션 커뮤니티](https://github.com/rlatkd/fashion-community)
 - 개인 프로젝트
-  - [견고한 결제 시스템](https://github.com/rlatkd/rubust-payment-system)
-  - [블로그](https://github.com/rlatkd/katalog)
+  - [견고한 결제 시스템](https://github.com/rlatkd/rubust-payment-system) (in progress)
+  - [블로그](https://github.com/rlatkd/katalog) (in progress)
   - [모니터링 시스템](https://github.com/rlatkd/monitoring-system)
   - [실시간 채팅 플랫폼](https://github.com/rlatkd/live-chat)
   - [고객 관리 시스템v2](https://github.com/rlatkd/management-system-v2)
