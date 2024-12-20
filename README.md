@@ -1,4 +1,5 @@
 ## <p>$\huge{\rm{\color{#6580DD}career}}$</p>
+
 - [Hyosung FMS Inc.](https://www.hyosungfms.com/) <br> Application Platform | [CMS+](https://www.cms.co.kr/) Development
   - Software Engineer (BE & FE) (2024.09. ~ )
     
@@ -82,16 +83,18 @@
 
       </details>
 
-## bachelor
+## <p>$\huge{\rm{\color{#6580DD}bachelor}}$</p>
+
 - 경희대학교 생체의공학 공학사 (2023.02.)
   - [졸업논문] ***Convolutional Neural Network를 이용한 Liver Tumor 모델 비교 연구*** (2022.06.)
 
-## trainings
+## <p>$\huge{\rm{\color{#6580DD}trainings}}$</p>
 
 - 효성에프엠에스 풀스택 개발자 양성과정 1기 [수료] (2024.08.)
 - 신세계아이앤씨 클라우드 엔지니어 양성과정 2기 [수료] (2024.02.)
 
-## awards
+## <p>$\huge{\rm{\color{#6580DD}awards}}$</p>
+
 - 정보통신기획평가원 SW 우수성과 컨퍼런스
   - 우수상 (2024.08.)
 - 효성에프엠에스 풀스택 개발자 양성과정 1기
@@ -101,7 +104,7 @@
   - [파이널 프로젝트](https://github.com/rlatkd/salesync) 최우수상 (2024.02.)
   - 우수 수료생 (2024.02.)
 
-## projects
+## <p>$\huge{\rm{\color{#6580DD}projects}}$</p>
 
 <details>
   <summary>장기 프로젝트</summary>
@@ -142,7 +145,7 @@
 
 </details>
 
-## interests
+## <p>$\huge{\rm{\color{#6580DD}interests}}$</p>
 
 <details>
   <summary>Backend</summary>
@@ -201,7 +204,7 @@
 
 </details>
 
-## etc
+## <p>$\huge{\rm{\color{#6580DD}etc}}$</p>
 
 <details>
   <summary>Today I Learned & Solved Algorithms</summary>
