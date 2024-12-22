@@ -152,6 +152,7 @@
 
   - Kotlin
   - TypeScript
+  - Rust
 
 </details>
 
