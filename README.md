@@ -90,8 +90,23 @@
 
 ## <p>$\huge{\large{\rm{\color{#6580DD}trainings}}}$</p>
 
-- 효성에프엠에스 풀스택 개발자 양성과정 1기 [수료] (2024.08.)
-- 신세계아이앤씨 클라우드 엔지니어 양성과정 2기 [수료] (2024.02.)
+<details>
+  <summary>효성에프엠에스 풀스택 개발자 양성과정 1기 [수료] (2024.08.)</summary>
+
+  - [자동 청구/결제 솔루션](https://github.com/rlatkd/cms-plus)
+  - [풋살 자동매칭 서비스](https://github.com/rlatkd/match5)
+  - [인터넷 뱅킹 시스템](https://github.com/rlatkd/hs-bank)
+
+</details>
+
+<details>
+  <summary>신세계아이앤씨 클라우드 엔지니어 양성과정 2기 [수료] (2024.02.)</summary>
+
+  - [MSA 기반 웹 POS 서비스](https://github.com/rlatkd/salesync)
+  - [중고 경매 플랫폼v0](https://github.com/rlatkd/ssgbay-v0)
+  - [패션 커뮤니티](https://github.com/rlatkd/fashion-community)
+
+</details>
 
 ## <p>$\huge{\large{\rm{\color{#6580DD}awards}}}$</p>
 
