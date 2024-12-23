@@ -225,6 +225,7 @@
 
   - Tableau
   - Snowflake
+  - Kinesis
 
 </details>
 
