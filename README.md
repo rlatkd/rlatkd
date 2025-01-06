@@ -43,7 +43,22 @@
       </details>
 
     - CMS+ 유지보수
-     
+   
+      <details>
+        <summary>회원 상담 및 변경이력 개선 (2024.12.30. ~ 2025.01.07.) </summary>
+ 
+        - 요구사항 명세 및 설계서 작성
+        - PCL 작성 및 테스트
+        - 개발
+          - BE
+            - 회원 상담 및 변경이력 조회 API 수정 및 쿼리문 개선
+          - FE
+            - Virtual Scroll 적용
+            - datepicker 커스텀 및 유효성 적용
+            - grid 수정
+
+      </details>
+      
       <details>
         <summary>청구월/결제일 기간 유효성 (2024.12.11. ~ 2024.12.19.) </summary>
  
@@ -80,21 +95,6 @@
             - 출금일 유효성 적용
           - 업무정보 수정
             - 출금일 유효성 적용
-
-      </details>
-
-      <details>
-        <summary>회원 상담 및 변경이력 개선 (2024.12.30. ~ 2025.01.07.) </summary>
- 
-        - 요구사항 명세 및 설계서 작성
-        - PCL 작성 및 테스트
-        - 개발
-          - BE
-            - 회원 상담 및 변경이력 조회 API 수정 및 쿼리문 개선
-          - FE
-            - Virtual Scroll 적용
-            - datepicker 커스텀 및 유효성 적용
-            - grid 수정
 
       </details>
 
