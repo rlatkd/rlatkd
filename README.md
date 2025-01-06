@@ -83,6 +83,21 @@
 
       </details>
 
+      <details>
+        <summary>회원 상담 및 변경이력 개선 (2024.12.30. ~ 2025.01.07.) </summary>
+ 
+        - 요구사항 명세 및 설계서 작성
+        - PCL 작성 및 테스트
+        - 개발
+          - BE
+            - 회원 상담 및 변경이력 조회 API 수정 및 쿼리문 개선
+          - FE
+            - Virtual Scroll 적용
+            - datepicker 커스텀 및 유효성 적용
+            - grid 수정
+
+      </details>
+
 ## <p>$\huge{\large{\rm{\color{#6580DD}bachelor}}}$</p>
 
 - 경희대학교 생체의공학 공학사 (2023.02.)
