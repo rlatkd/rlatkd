@@ -33,15 +33,7 @@
         - ***[전자계약](https://sign2gether.com/)***
      
       </details>
-
-          
-      <details>
-        <summary>국민은행 & 여신금융협회 (미정)</summary>
-   
-        - 대기중
-          
-      </details>
-
+      
     - CMS+ 유지보수
    
       <details>
