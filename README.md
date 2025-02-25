@@ -3,7 +3,7 @@
 - [Hyosung FMS Inc.](https://www.hyosungfms.com/) <br> Application Platform | [CMS+](https://www.cms.co.kr/) Development
   - Software Engineer (BE & FE) (2024.09. ~ )
     
-    - CMS+ 프로젝트
+    <!-- - CMS+ 프로젝트
 
       <details>
         <summary>전자계약 (2024.09.26. ~ 2024.01.09.)</summary>
@@ -95,7 +95,7 @@
        <details>
         <summary>페이지네이션(2025.2.10 ~)</summary>
 
-      </details>
+      </details> -->
 
 ## <p>$\huge{\large{\rm{\color{#6580DD}bachelor}}}$</p>
 
