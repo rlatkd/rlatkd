@@ -99,8 +99,8 @@
 
 ## <p>$\huge{\large{\rm{\color{#6580DD}bachelor}}}$</p>
 
-- Kyung Hee University, Bachelor of Engineering in Biomedical Engineering (2023.02.)
-  - [Thesis] Comparative Study of Liver Tumor Using Convolutional Neural Network (2022.06.)
+- [Kyung Hee University](https://www.khu.ac.kr/kor/user/main/view.do), Bachelor of Engineering in [Biomedical Engineering](https://bme.khu.ac.kr/bme/user/main/view.do) (2023.02.)
+  - [Thesis] Comparative Models Study of Liver Tumor Using Convolutional Neural Network (2022.06.)
 
 ## <p>$\huge{\large{\rm{\color{#6580DD}trainings}}}$</p>
 
