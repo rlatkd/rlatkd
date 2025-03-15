@@ -129,7 +129,7 @@
 - Hyosung FMS Full-Stack Developer Training Program 1st Cohort
   - [Final Project](https://github.com/rlatkd/cms-plus) Grand Award (2024.08.)
   - Outstanding Graduate (2024.08.)
-- 신세계아이앤씨 클라우드 엔지니어 양성과정 2기
+- Shinsegae I&C Cloud Engineer Training Program 2nd Cohort
   - [Final Project](https://github.com/rlatkd/salesync) Grand Award (2024.02.)
   - Outstanding Graduate (2024.02.)
 
