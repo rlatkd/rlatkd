@@ -1,7 +1,7 @@
 ## <p>$\huge{\large{\rm{\color{#6580DD}career}}}$</p>
 
 - [Hyosung FMS Inc.](https://www.hyosungfms.com/) <br> Application Platform | [CMS+](https://www.cms.co.kr/) Development
-  - Software Engineer (BE & FE) (2024.09. ~ )
+  - Full-stack Software Engineer (BE & FE) (2024.09. ~ )
     
     <!-- - CMS+ 프로젝트
 
