@@ -144,7 +144,7 @@
 </details>
 
 <details>
-  <summary>팀 프로젝트</summary>
+  <summary>Team Projects</summary>
 
   - [Futsal Automatic Matching Service](https://github.com/rlatkd/match5)
   - [Internet Banking System](https://github.com/rlatkd/hs-bank)
@@ -154,7 +154,7 @@
 </details>
  
 <details>
-  <summary>개인 프로젝트</summary>
+  <summary>Personal Projects</summary>
    
   - [Robust Payment System](https://github.com/rlatkd/rubust-payment-system) (in progress)
   - [Katalog](https://github.com/rlatkd/katalog) (in progress)
@@ -168,7 +168,7 @@
 </details>
 
 <details>
-  <summary>학부 프로젝트</summary>
+  <summary>Undergraduate Projects</summary>
    
   - [CT Image Reconstruction](https://github.com/rlatkd/ct-image-reconstruction)
 
