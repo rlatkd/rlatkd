@@ -218,6 +218,7 @@
   <summary>Fullstack</summary>
 
   - Next.js
+  - NestJS
 
 </details>
 
