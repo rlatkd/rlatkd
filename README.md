@@ -239,7 +239,7 @@
 </details>
 
 <details>
-  <summary>Data</summary>
+  <summary>Big Data</summary>
 
   - Spark
   - Tableau
