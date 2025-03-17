@@ -207,7 +207,7 @@
 <details>
   <summary>Frontend</summary>
 
-  - $\color{#DD6565}NO\ INTEREST\ (ㅠㅠ)$
+  - Svelte
 
 </details>
 
