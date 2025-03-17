@@ -239,8 +239,9 @@
 </details>
 
 <details>
-  <summary>Data Analytics</summary>
+  <summary>Data</summary>
 
+  - Spark
   - Tableau
   - Snowflake
   - Kinesis
