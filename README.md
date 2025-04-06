@@ -140,9 +140,10 @@
 
 <details>
   <summary>Long-term Projects</summary>
-
+  
   - [Automated Billing/Payment Solution](https://github.com/rlatkd/cms-plus)
   - [MSA-based Web POS Service](https://github.com/rlatkd/salesync)
+  - [X-Operations](https://github.com/rlatkd/xops) (in progress)
 
 </details>
 
@@ -158,8 +159,7 @@
  
 <details>
   <summary>Personal Projects</summary>
-
-  - [Katalog](https://github.com/rlatkd/katalog) (in progress)
+  
   - [Robust Payment System](https://github.com/rlatkd/rubust-payment-system) (in progress)
   - [Monitoring System](https://github.com/rlatkd/monitoring-system)
   - [Real-time Chat Platform](https://github.com/rlatkd/live-chat)
