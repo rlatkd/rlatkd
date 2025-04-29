@@ -143,7 +143,7 @@
   
   - [Automated Billing/Payment Solution](https://github.com/rlatkd/cms-plus)
   - [MSA-based Web POS Service](https://github.com/rlatkd/salesync)
-  - [X-Operations](https://github.com/rlatkd/xops) (in progress)
+  - [Portfolio](https://github.com/rlatkd/sanghunkim) (in progress)
 
 </details>
 
