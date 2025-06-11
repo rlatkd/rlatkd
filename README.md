@@ -1,4 +1,4 @@
-## <p>$\huge{\large{\rm{\color{#6580DD}career}}}$</p>
+<span style="color: #6580DD; font-size: 2em;">career</span>
 
 - [Hyosung FMS Inc.](https://www.hyosungfms.com/) <br> Application Platform | [CMS+](https://www.cms.co.kr/) Development
   - Full-stack Software Engineer (BE & FE) (2024.09. ~ )
