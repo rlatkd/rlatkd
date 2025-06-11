@@ -100,12 +100,12 @@
 
       </details> -->
 
-## <p>$\huge{\large{\rm{\color{#6580DD}bachelor}}}$</p>
+## bachelor
 
 - [Kyung Hee University](https://www.khu.ac.kr/kor/user/main/view.do), Bachelor of Engineering in [Biomedical Engineering](https://bme.khu.ac.kr/bme/user/main/view.do) (2023.02.)
   - [Thesis] Comparative Models Study of Liver Tumor Using Convolutional Neural Network (2022.06.)
 
-## <p>$\huge{\large{\rm{\color{#6580DD}trainings}}}$</p>
+## trainings
 
 <details>
   <summary>Hyosung FMS Full-Stack Developer Training Program 1st Cohort [Completed] (2024.08.)</summary>
@@ -125,7 +125,7 @@
 
 </details>
 
-## <p>$\huge{\large{\rm{\color{#6580DD}awards}}}$</p>
+## awards
 
 - Institute of Information & Communications Technology Planning & Evaluation (IITP) SW Excellence Conference
   - Excellence Award (2024.08.)
@@ -134,9 +134,8 @@
   - Outstanding Graduate (2024.08.)
 - Shinsegae I&C Cloud Engineer Training Program 2nd Cohort
   - [Final Project](https://github.com/rlatkd/salesync) Grand Award (2024.02.)
-  - Outstanding Graduate (2024.02.)
 
-## <p>$\huge{\large{\rm{\color{#6580DD}projects}}}$</p>
+## projects
 
 <details>
   <summary>Long-term Projects</summary>
@@ -177,7 +176,7 @@
 
 </details>
 
-## <p>$\huge{\large{\rm{\color{#6580DD}interests}}}$</p>
+## interests
 
 <details>
   <summary>Language</summary>
@@ -248,7 +247,7 @@
 
 </details>
 
-## <p>$\huge{\large{\rm{\color{#6580DD}etc}}}$</p>
+## etc
 
 <details>
   <summary>Today I Learned & Solved Algorithms</summary>
