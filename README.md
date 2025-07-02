@@ -271,9 +271,3 @@
   - [Terraform](https://github.com/rlatkd/terraform)
 
 </details>
-
----
-
-# ARTIFICIAL INTELLIGENCE WILL INEVITABLY REPLACE devs
-
----
