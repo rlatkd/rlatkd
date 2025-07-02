@@ -1,9 +1,3 @@
----
-
-# ARTIFICIAL INTELLIGENCE WILL INEVITABLY REPLACE devs
-
----
-
 ## career
 
 - [Hyosung FMS Inc.](https://www.hyosungfms.com/) <br> Application Platform | [CMS+](https://www.cms.co.kr/) Development
@@ -277,3 +271,9 @@
   - [Terraform](https://github.com/rlatkd/terraform)
 
 </details>
+
+---
+
+# ARTIFICIAL INTELLIGENCE WILL INEVITABLY REPLACE devs
+
+---
