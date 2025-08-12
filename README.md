@@ -103,7 +103,7 @@
 ## bachelor
 
 - [Kyung Hee University](https://www.khu.ac.kr/kor/user/main/view.do), Bachelor of Engineering in [Biomedical Engineering](https://bme.khu.ac.kr/bme/user/main/view.do) (2023.02.)
-  - [Thesis] Comparative Models Study of Liver Tumor Using Convolutional Neural Network (2022.06.)
+  - [Thesis] Comparative Study of Liver Tumor Models Using a Convolutional Neural Network (2022.06.)
 
 ## trainings
 
@@ -130,10 +130,10 @@
 - Institute of Information & Communications Technology Planning & Evaluation (IITP) SW Excellence Conference
   - Excellence Award (2024.08.)
 - Hyosung FMS Full-Stack Developer Training Program 1st Cohort
-  - [Final Project](https://github.com/rlatkd/cms-plus) Grand Award (2024.08.)
+  - [Final Project](https://github.com/rlatkd/cms-plus) Grand Prize (2024.08.)
   - Outstanding Graduate (2024.08.)
 - Shinsegae I&C Cloud Engineer Training Program 2nd Cohort
-  - [Final Project](https://github.com/rlatkd/salesync) Grand Award (2024.02.)
+  - [Final Project](https://github.com/rlatkd/salesync) Grand Prize (2024.02.)
 
 ## projects
 
