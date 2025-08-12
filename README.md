@@ -179,15 +179,9 @@
 ## etc
 
 <details>
-  <summary>Today I Learned & Solved Algorithms</summary>
+  <summary>TIL</summary>
   
   - [1day-1commit](https://github.com/rlatkd/1day-1commit)
-
-</details>
-
-<details>
-  <summary>practices</summary>
-  
   - [Kafka Streams](https://github.com/rlatkd/kafka-streams)
   - [Mybatis & JPA](https://github.com/rlatkd/mybatis-jpa)
   - [GitLab Runner](https://github.com/rlatkd/gitlab-runner)
