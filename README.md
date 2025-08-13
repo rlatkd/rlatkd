@@ -108,7 +108,7 @@
 ## trainings
 
 <details>
-  <summary>Hyosung FMS Full-Stack Developer Training Program 1st Cohort [Completed] (2024.08.)</summary>
+  <summary>Hyosung FMS Full-Stack Developer Training Program 1st Cohort (2024.02. ~ 2024.08.)</summary>
 
   - [Automated Billing/Payment Solution](https://github.com/rlatkd/cms-plus)
   - [Futsal Automatic Matching Service](https://github.com/rlatkd/match5)
@@ -117,7 +117,7 @@
 </details>
 
 <details>
-  <summary>Shinsegae I&C Cloud Engineer Training Program 2nd Cohort [Completed] (2024.02.)</summary>
+  <summary>Shinsegae I&C Cloud Engineer Training Program 2nd Cohort (2023.08. ~ 2024.02.)</summary>
 
   - [MSA-based Web POS Service](https://github.com/rlatkd/salesync)
   - [Second-hand Auction Platform v0](https://github.com/rlatkd/ssgbay-v0)
