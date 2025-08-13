@@ -103,7 +103,7 @@
 ## bachelor
 
 - Kyung Hee University, Biomedical Engineering Bachelor of Engineering (2023.02.)
-  - [Thesis] Comparative Study of Liver Tumor Models Using a Convolutional Neural Network (2022.06.)
+  - *Comparative Study of Liver Tumor Models Using a Convolutional Neural Network (2022.06.)*
 
 ## trainings
 
