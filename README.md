@@ -1,6 +1,6 @@
 ## career
 
-- [Hyosung FMS Inc.](https://www.hyosungfms.com/) Application Platform
+- Hyosung FMS Inc. Application Platform
   - Full-stack Developer (2024.09. ~ )
     - Spring Boot v2.5.4
     - Vue v2.5.14
@@ -102,7 +102,7 @@
 
 ## bachelor
 
-- [Kyung Hee University](https://www.khu.ac.kr/kor/user/main/view.do), Bachelor of Engineering in [Biomedical Engineering](https://bme.khu.ac.kr/bme/user/main/view.do) (2023.02.)
+- Kyung Hee University, Biomedical Engineering Bachelor of Engineering (2023.02.)
   - [Thesis] Comparative Study of Liver Tumor Models Using a Convolutional Neural Network (2022.06.)
 
 ## trainings
