@@ -3,7 +3,7 @@
 - Hyosung FMS Inc. Application Platform
   - Full-stack Developer (2024.09. ~ )
     - Spring Boot v2.5.4
-    - Vue v2.5.14
+    - Vue.js v2.5.14
     - Oracle v21C
   - DevOps (2025.07. ~ )
     
