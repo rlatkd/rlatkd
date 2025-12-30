@@ -101,10 +101,14 @@
 
       </details> -->
 
-## bachelor
-
-- Kyung Hee University, Biomedical Engineering Bachelor of Engineering (2023.02.)
-  - *Comparative Study of Convolution Neural Network Models for Liver Tumor Image Classification* (2022.06.)
+## Degrees
+- Master of Economics (2026.03. - )
+  - Sungkyunkwan University, Graduate School, Department of Quantitative Applied Economics
+- Bachelor of Engineering (2018.03. - 2023.02.)
+  - Kyung Hee University, College of Electronics and Information, Department of Biomedical Engineering
+    - *Comparative Study of Convolution Neural Network Models for Liver Tumor Image Classification* (2022.06.)
+- Associate Degree (2015.03. - 2017.02.)
+  - Hanseo Aviation Institute, Department of Aircraft Maintenance
 
 ## trainings
 
