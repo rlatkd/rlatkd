@@ -132,7 +132,7 @@
 ## awards
 
 - Institute of Information & Communications Technology Planning & Evaluation (IITP) SW Excellence Conference
-  - Excellence Award (2024.08.)
+  - Outstanding Award (2024.08.)
 - Hyosung FMS Full-Stack Developer Training Program 1st Cohort
   - [Final Project](https://github.com/rlatkd/cms-plus) Grand Prize (2024.08.)
   - Outstanding Graduate (2024.08.)
