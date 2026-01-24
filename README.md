@@ -163,7 +163,7 @@
 <details>
   <summary>Personal Projects</summary>
   
-  - [Robust Payment System](https://github.com/rlatkd/rubust-payment-system) (in progress)
+  - [Robust Payment System](https://github.com/rlatkd/rubust-payment-system)
   - [Monitoring System](https://github.com/rlatkd/monitoring-system)
   - [Real-time Chat Platform](https://github.com/rlatkd/live-chat)
   - [Customer Management System v2](https://github.com/rlatkd/management-system-v2)
