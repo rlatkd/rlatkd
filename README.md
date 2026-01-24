@@ -5,7 +5,6 @@
     - Spring Boot v2.5.4
     - Vue.js v2.5.14
     - Oracle v21C
-  - DevOps (2025.07. ~ )
     
     <!-- - CMS+ 프로젝트
 
