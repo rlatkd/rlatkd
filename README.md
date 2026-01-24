@@ -101,7 +101,7 @@
 
       </details> -->
 
-## degrees
+## education
 - Master of Economics (2026.03. - )
   - Sungkyunkwan University, Graduate School, Department of Quantitative Applied Economics
 - Bachelor of Engineering (2018.03. - 2023.02.)
