@@ -162,7 +162,8 @@
  
 <details>
   <summary>Personal Projects</summary>
-  
+
+  - [SKKU QAE ledger app](https://github.com/rlatkd/quant-ledger)
   - [Robust Payment System](https://github.com/rlatkd/rubust-payment-system)
   - [Monitoring System](https://github.com/rlatkd/monitoring-system)
   - [Real-time Chat Platform](https://github.com/rlatkd/live-chat)
