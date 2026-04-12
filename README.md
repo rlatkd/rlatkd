@@ -4,7 +4,7 @@
   - Full-stack Developer (2024.09. ~ )
     - Spring Boot v2.5.4
     - Vue.js v2.5.14
-    - Oracle v21C
+    - Oracle v19C
     
     <!-- - CMS+ 프로젝트
 
