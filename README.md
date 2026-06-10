@@ -143,7 +143,8 @@
 
 <details>
   <summary>Long-term Projects</summary>
-  
+
+  - [Cryptocurrency Quant Analysis Dashboard](https://github.com/rlatkd/up-quant)
   - [Automated Billing/Payment Solution](https://github.com/rlatkd/cms-plus)
   - [MSA-based Web POS Service](https://github.com/rlatkd/salesync)
   - [Portfolio](https://github.com/rlatkd/portfolio) (in progress)
