@@ -1,202 +1,152 @@
-## career
+# Sanghun Kim
 
-- Hyosung FMS Inc. Application Platform
-  - Full-stack Developer (2024.09. ~ )
-    - Spring Boot v2.5.4
-    - Vue.js v2.5.14
-    - Oracle v19C
-    
-    <!-- - CMS+ 프로젝트
+Full-stack developer working on payment and settlement services at Hyosung FMS.
 
-      <details>
-        <summary>전자계약 (2024.09.26. ~ 2024.01.09.)</summary>
+I develop backend and frontend applications with Spring Boot and Vue.js, and handle batch monitoring and production issues. My work focuses on data consistency, external integrations, and failure handling in payment workflows.
 
-        - 기획 참여 및 UI/UX 아이디어 제시
-        - 프로젝트 설계서 작성 및 검토
-        - 데이터베이스 신규 테이블 작성 및 배포
-        - 전자계약 신청 서비스 개발
-          - BE
-            - RESTful API 설계 및 개발
-            - External API 연동
-            - JWT & OAuth 2.0 인증 구현
-            - 데이터 불변성 적용 및 조회 성능 개선
-            - 사용자 정보 Legacy & Session 동기화
-            - 대량 회원_계약 데이터 Spring Batch 구현
-            - 전자계약 서명 링크 발송 이메일, 카카오톡 연동
-          - FE
-            - 개발 및 퍼블리싱
-            - VeeValidate 유효성 검증 적용
-            - Axios 클로저 개선 및 Exception 커스텀
-            - 정적 렌더링 컴포넌트 이벤트 로직 개선
-            - 사용자 이메일 인증 로직 공통화
-          - QA
-            - 테스트 코드 작성
-            - PCL 작성 및 시나리오 테스트
-            - QA 대응 (/w QA team)
-        - ***[전자계약](https://sign2gether.com/)***
-     
-      </details>
-      
-    - CMS+ 유지보수
-   
-      <details>
-        <summary>회원 상담 및 변경이력 개선 (2024.12.30. ~ 2025.01.07.)</summary>
- 
-        - 요구사항 명세 및 설계서 작성
-        - PCL 작성 및 테스트
-        - 개발
-          - BE
-            - 회원 상담 및 변경이력 조회 API 수정 및 쿼리문 개선
-          - FE
-            - Virtual Scroll 적용
-            - datepicker 커스텀 및 유효성 적용
-            - grid 수정
+[Portfolio](https://sanghunkim.com) · [Email](mailto:rlatkdgns042@naver.com)
 
-      </details>
-      
-      <details>
-        <summary>청구월/결제일 기간 유효성 (2024.12.11. ~ 2024.12.19.)</summary>
- 
-        - 청구 > 청구관리
-          - 정기청구 생성
-            - 청구월 유효성 적용
-            - 결제일(1) 유효성 적용
-            - 결제일(2) 유효성 적용
-            - 퍼블리싱
-          - 추가청구 생성
-            - 청구월 유효성 적용
-            - 결제일 유효성 적용
-          - 대량청구 생성
-            - 청구월 유효성 적용
-            - 결제일 유효성 적용
-            - 청구월 & 결제일 유효성 적용
-            - 퍼블리싱
-          - 청구일괄 수정
-            - 결제일(1) 유효성 적용
-            - 결제일(2) 유효성 적용
-            - 퍼블리싱
-          - 대량청구 수정
-            - 청구월 유효성 적용
-            - 결제일 유효성 적용
-            - 청구월 & 결제일 유효성 적용
-            - 퍼블리싱
-        - 수납 > 미수관리
-          - 미수처리
-            - 재결제일 유효성 적용
-            - 미납건 재청구일 유효성 적용
-            - 합산 청구월 유효성 적용
-        - 업무 > 업무관리
-          - 업무정보 등록
-            - 출금일 유효성 적용
-          - 업무정보 수정
-            - 출금일 유효성 적용
+## Career
 
-      </details>
+### Hyosung FMS Inc. · Application Platform
+**Full-stack Developer · Sep 2024–Present**
 
-      ...
+- Develop and maintain customer-facing applications for contracts, payments, and settlements across six services.
+- Contributed to electronic contract integration and the Branch Manager B2B platform.
+- Handle batch monitoring and customer-reported issues for CMS+ and Ibill alongside development work.
+- Serve as the owner of **Ibill**, an education payment platform, since Aug 2026. Review requirements, determine development priorities, and resolve operational issues from investigation through deployment.
 
-       <details>
-        <summary>페이지네이션(2025.2.10 ~)</summary>
+**Selected work**
+- Extended a shared query API with optional parameters to align payment details with settlement results while preserving existing API behavior.
+- Enabled **150,000-row Excel exports within 8 minutes** through paginated API calls and SXSSF streaming, without modifying the upstream system.
+- Corrected approximately **20,000 payment requests stuck in an in-progress state** and automated status correction for selected failure cases.
+- Centralized external integration error handling with AOP, separating customer-facing messages from operational alerts.
 
-      </details> -->
+**Technologies:** Java · Spring Boot · Spring Batch · Spring AOP · Vue.js · Oracle
 
-## education
-- Master of Science (2026.03. - )
-  - Sungkyunkwan University, Graduate School, Department of Quantitative Applied Economics
-- Bachelor of Engineering (2018.03. - 2023.02.)
-  - Kyung Hee University, College of Electronics and Information, Department of Biomedical Engineering
-    - *Comparative Study of Convolutional Neural Network (CNN) Models for Liver Tumor Image Classification* (2022.06.)
-- Associate Degree (2015.03. - 2017.02.)
-  - Hanseo Aviation Institute, Department of Aircraft Maintenance
+## Selected Projects
 
-## trainings
+### [UPquant — Cryptocurrency Quantitative Analysis Dashboard](https://github.com/rlatkd/up-quant)
+**Personal project · 2026**
+
+A dashboard for analyzing market conditions, portfolio allocation, and trading strategies across approximately 260 Upbit KRW markets.
+
+- Combined nine quantitative methods, including HMM, GARCH, PCA, and portfolio optimization, with backtesting and strategy validation.
+- Incorporated transaction costs, slippage, walk-forward validation, and FDR correction into the relevant analyses.
+- Reduced correlation analysis response time from approximately **1.8 seconds to 5 ms** by sharing cached daily candle data across features.
+- Implemented stale-while-revalidate, single-flight cache refresh, and a shared WebSocket relay.
+
+**Stack:** Python · FastAPI · React · TypeScript · AWS · GitHub Actions
+
+### [Automated Billing & Payment System](https://github.com/rlatkd/cms-plus)
+**Team project · Architect · 2024**
+
+A system for managing customers, contracts, billing, and payments, built during the Hyosung FMS full-stack training program.
+
+- Designed the system and infrastructure, and implemented payment, product, and batch features.
+- Separated application services and deployed them using ECS Fargate, with the analysis service hosted separately.
+- Configured a three-broker Kafka cluster with separate topics for payment requests, payment results, and messaging.
+- Built centralized logging, metrics monitoring, and CI/CD pipelines.
+
+**Stack:** Java · Spring Boot · Spring Batch · React · Kafka · AWS · ELK · Prometheus · Grafana
+
+### [MSA-based Web POS Service](https://github.com/rlatkd/salesync)
+**Team project · 2024**
+
+A web-based POS project developed during the Shinsegae I&C cloud engineer training program.
+
+- Received the program’s top final-project award.
+
+## Education
+
+### Sungkyunkwan University
+**Graduate studies in Quantitative Applied Economics · Mar 2026–Present**
+
+### Kyung Hee University
+**Bachelor’s degree in Biomedical Engineering · Mar 2018–Feb 2023**
+
+- Undergraduate thesis: comparison of CNN models for liver tumor image classification.
+- Compared LeNet5, AlexNet, VGG19, and ResNet50 using 4,325 CT images from LiTS17.
+- VGG19 achieved the highest validation accuracy at **99.3%** in the experiment.
+
+### Hanseo Aviation Institute
+**Associate degree in Aircraft Maintenance · Mar 2015–Feb 2017**
+
+## Awards
+
+- **우수상** — IITP SW전문인재양성 우수성과 컨퍼런스 · Aug 2024
+- **파이널 프로젝트 최우수상 · 우수 수료생** — Hyosung FMS Full-Stack Developer Training Program · Aug 2024
+- **파이널 프로젝트 최우수상** — Shinsegae I&C Cloud Engineer Training Program · Feb 2024
+
+## Training
 
 <details>
-  <summary>Hyosung FMS Full-Stack Developer Training Program 1st Cohort (2024.02. ~ 2024.08.)</summary>
+  <summary>Hyosung FMS Full-Stack Developer Training Program · 1st Cohort · Feb–Aug 2024</summary>
 
-  - [Automated Billing/Payment Solution](https://github.com/rlatkd/cms-plus)
-  - [Futsal Automatic Matching Service](https://github.com/rlatkd/match5)
-  - [Internet Banking System](https://github.com/rlatkd/hs-bank)
+- [Automated Billing & Payment System](https://github.com/rlatkd/cms-plus)
+- [Futsal Automatic Matching Service](https://github.com/rlatkd/match5)
+- [Internet Banking System](https://github.com/rlatkd/hs-bank)
 
 </details>
 
 <details>
-  <summary>Shinsegae I&C Cloud Engineer Training Program 2nd Cohort (2023.08. ~ 2024.02.)</summary>
+  <summary>Shinsegae I&C Cloud Engineer Training Program · 2nd Cohort · Aug 2023–Feb 2024</summary>
 
-  - [MSA-based Web POS Service](https://github.com/rlatkd/salesync)
-  - [Second-hand Auction Platform v0](https://github.com/rlatkd/ssgbay-v0)
-  - [Fashion Community](https://github.com/rlatkd/fashion-community)
-
-</details>
-
-## awards
-
-- Institute of Information & Communications Technology Planning & Evaluation (IITP) SW Excellence Conference
-  - Outstanding Award (2024.08.)
-- Hyosung FMS Full-Stack Developer Training Program 1st Cohort
-  - [Final Project](https://github.com/rlatkd/cms-plus) Grand Prize (2024.08.)
-  - Outstanding Graduate (2024.08.)
-- Shinsegae I&C Cloud Engineer Training Program 2nd Cohort
-  - [Final Project](https://github.com/rlatkd/salesync) Grand Prize (2024.02.)
-
-## projects
-
-<details>
-  <summary>Long-term Projects</summary>
-
-  - [Cryptocurrency Quant Analysis Dashboard](https://github.com/rlatkd/up-quant)
-  - [Automated Billing/Payment Solution](https://github.com/rlatkd/cms-plus)
-  - [MSA-based Web POS Service](https://github.com/rlatkd/salesync)
-  - [Portfolio](https://github.com/rlatkd/portfolio)
+- [MSA-based Web POS Service](https://github.com/rlatkd/salesync)
+- [Second-hand Auction Platform v0](https://github.com/rlatkd/ssgbay-v0)
+- [Fashion Community](https://github.com/rlatkd/fashion-community)
 
 </details>
+
+## More Projects
 
 <details>
   <summary>Team Projects</summary>
 
-  - [Futsal Automatic Matching Service](https://github.com/rlatkd/match5)
-  - [Internet Banking System](https://github.com/rlatkd/hs-bank)
-  - [Second-hand Auction Platform v0](https://github.com/rlatkd/ssgbay-v0)
-  - [Fashion Community](https://github.com/rlatkd/fashion-community)
+- [Futsal Automatic Matching Service](https://github.com/rlatkd/match5)
+- [Internet Banking System](https://github.com/rlatkd/hs-bank)
+- [Second-hand Auction Platform v0](https://github.com/rlatkd/ssgbay-v0)
+- [Fashion Community](https://github.com/rlatkd/fashion-community)
 
 </details>
- 
+
 <details>
   <summary>Personal Projects</summary>
 
-  - [SKKU QAE Ledger App](https://github.com/rlatkd/quant-ledger)
-  - [Robust Payment System](https://github.com/rlatkd/rubust-payment-system)
-  - [Monitoring System](https://github.com/rlatkd/monitoring-system)
-  - [Real-time Chat Platform](https://github.com/rlatkd/live-chat)
-  - [Customer Management System v2](https://github.com/rlatkd/management-system-v2)
-  - [Second-hand Auction Platform v2](https://github.com/rlatkd/ssgbay-v2)
-  - [Second-hand Auction Platform v1](https://github.com/rlatkd/ssgbay-v1)
-  - [Customer Management System v1](https://github.com/rlatkd/management-system)
+- [Portfolio](https://github.com/rlatkd/portfolio)
+- [SKKU QAE Ledger App](https://github.com/rlatkd/quant-ledger)
+- [Robust Payment System](https://github.com/rlatkd/rubust-payment-system)
+- [Monitoring System](https://github.com/rlatkd/monitoring-system)
+- [Real-time Chat Platform](https://github.com/rlatkd/live-chat)
+- [Customer Management System v2](https://github.com/rlatkd/management-system-v2)
+- [Second-hand Auction Platform v2](https://github.com/rlatkd/ssgbay-v2)
+- [Second-hand Auction Platform v1](https://github.com/rlatkd/ssgbay-v1)
+- [Customer Management System v1](https://github.com/rlatkd/management-system)
 
 </details>
 
 <details>
   <summary>Undergraduate Projects</summary>
-   
-  - [CT Image Reconstruction](https://github.com/rlatkd/ct-image-reconstruction)
+
+- [CT Image Reconstruction](https://github.com/rlatkd/ct-image-reconstruction)
 
 </details>
 
-## etc
+## Learning Notes
 
 <details>
-  <summary>TIL</summary>
-  
-  - [1day-1commit](https://github.com/rlatkd/1day-1commit)
-  - [Kafka Streams](https://github.com/rlatkd/kafka-streams)
-  - [Mybatis & JPA](https://github.com/rlatkd/mybatis-jpa)
-  - [GitLab Runner](https://github.com/rlatkd/gitlab-runner)
-  - [JDBC](https://github.com/rlatkd/jdbc)
-  - [Design Pattern](https://github.com/rlatkd/design-pattern)
-  - [Qlik Sense Embed](https://github.com/rlatkd/qlik-embed)
-  - [Qlik Sense Mashup](https://github.com/rlatkd/qlik-mashup)
-  - [Dockerize](https://github.com/rlatkd/ssgbay-dockerize)
-  - [CI/CD](https://github.com/rlatkd/cicd-react)
-  - [Terraform](https://github.com/rlatkd/terraform)
+  <summary>Study Repositories & Experiments</summary>
+
+- [1day-1commit](https://github.com/rlatkd/1day-1commit)
+- [Kafka Streams](https://github.com/rlatkd/kafka-streams)
+- [MyBatis & JPA](https://github.com/rlatkd/mybatis-jpa)
+- [GitLab Runner](https://github.com/rlatkd/gitlab-runner)
+- [JDBC](https://github.com/rlatkd/jdbc)
+- [Design Patterns](https://github.com/rlatkd/design-pattern)
+- [Qlik Sense Embed](https://github.com/rlatkd/qlik-embed)
+- [Qlik Sense Mashup](https://github.com/rlatkd/qlik-mashup)
+- [Dockerization](https://github.com/rlatkd/ssgbay-dockerize)
+- [CI/CD](https://github.com/rlatkd/cicd-react)
+- [Terraform](https://github.com/rlatkd/terraform)
 
 </details>
