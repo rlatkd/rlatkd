@@ -1,12 +1,13 @@
 # Sanghun Kim
 
-Full-stack developer working on payment and settlement services at Hyosung FMS.
+Full-stack developer at Hyosung FMS, building customer-facing applications for payments and settlements.
 
-I develop backend and frontend applications with Spring Boot and Vue.js, and handle batch monitoring and production issues. My work focuses on data consistency, external integrations, and failure handling in payment workflows.
+Spring Boot · Vue.js · Data consistency · External integrations
 
 [Portfolio](https://sanghunkim.com) · [Email](mailto:rlatkdgns042@naver.com)
 
-## Career
+<details>
+<summary><strong>Career</strong></summary>
 
 ### Hyosung FMS Inc. · Application Platform
 **Full-stack Developer · Sep 2024–Present**
@@ -24,9 +25,12 @@ I develop backend and frontend applications with Spring Boot and Vue.js, and han
 
 **Technologies:** Java · Spring Boot · Spring Batch · Spring AOP · Vue.js · Oracle
 
-## Selected Projects
+</details>
 
-### [UPquant — Cryptocurrency Quantitative Analysis Dashboard](https://github.com/rlatkd/up-quant)
+<details>
+<summary><strong>Selected Projects · UPQuant / Billing & Payment / Web POS</strong></summary>
+
+### [UPQuant — Cryptocurrency Quantitative Analysis Dashboard](https://github.com/rlatkd/up-quant)
 **Personal project · 2026**
 
 A dashboard for analyzing market conditions, portfolio allocation, and trading strategies across approximately 260 Upbit KRW markets.
@@ -50,14 +54,17 @@ A system for managing customers, contracts, billing, and payments, built during 
 
 **Stack:** Java · Spring Boot · Spring Batch · React · Kafka · AWS · ELK · Prometheus · Grafana
 
-### [MSA-based Web POS Service](https://github.com/rlatkd/salesync)
+### [MSA-based Web POS Service](https://github.com/rlatkd/sale-sync)
 **Team project · 2024**
 
 A web-based POS project developed during the Shinsegae I&C cloud engineer training program.
 
 - Received the program’s top final-project award.
 
-## Education
+</details>
+
+<details>
+<summary><strong>Education & Awards</strong></summary>
 
 ### Sungkyunkwan University
 **Graduate studies in Quantitative Applied Economics · Mar 2026–Present**
@@ -72,46 +79,35 @@ A web-based POS project developed during the Shinsegae I&C cloud engineer traini
 ### Hanseo Aviation Institute
 **Associate degree in Aircraft Maintenance · Mar 2015–Feb 2017**
 
-## Awards
+### Awards
 
 - **우수상** — IITP SW전문인재양성 우수성과 컨퍼런스 · Aug 2024
 - **파이널 프로젝트 최우수상 · 우수 수료생** — Hyosung FMS Full-Stack Developer Training Program · Aug 2024
 - **파이널 프로젝트 최우수상** — Shinsegae I&C Cloud Engineer Training Program · Feb 2024
 
-## Training
+</details>
 
 <details>
-  <summary>Hyosung FMS Full-Stack Developer Training Program · 1st Cohort · Feb–Aug 2024</summary>
+<summary><strong>Training & Team Projects</strong></summary>
+
+### Hyosung FMS Full-Stack Developer Training Program · 1st Cohort · Feb–Aug 2024
 
 - [Automated Billing & Payment System](https://github.com/rlatkd/cms-plus)
 - [Futsal Automatic Matching Service](https://github.com/rlatkd/match5)
 - [Internet Banking System](https://github.com/rlatkd/hs-bank)
 
-</details>
+### Shinsegae I&C Cloud Engineer Training Program · 2nd Cohort · Aug 2023–Feb 2024
 
-<details>
-  <summary>Shinsegae I&C Cloud Engineer Training Program · 2nd Cohort · Aug 2023–Feb 2024</summary>
-
-- [MSA-based Web POS Service](https://github.com/rlatkd/salesync)
-- [Second-hand Auction Platform v0](https://github.com/rlatkd/ssgbay-v0)
-- [Fashion Community](https://github.com/rlatkd/fashion-community)
-
-</details>
-
-## More Projects
-
-<details>
-  <summary>Team Projects</summary>
-
-- [Futsal Automatic Matching Service](https://github.com/rlatkd/match5)
-- [Internet Banking System](https://github.com/rlatkd/hs-bank)
+- [MSA-based Web POS Service](https://github.com/rlatkd/sale-sync)
 - [Second-hand Auction Platform v0](https://github.com/rlatkd/ssgbay-v0)
 - [Fashion Community](https://github.com/rlatkd/fashion-community)
 
 </details>
 
 <details>
-  <summary>Personal Projects</summary>
+<summary><strong>More Projects</strong></summary>
+
+### Personal Projects
 
 - [Portfolio](https://github.com/rlatkd/portfolio)
 - [SKKU QAE Ledger App](https://github.com/rlatkd/quant-ledger)
@@ -123,19 +119,14 @@ A web-based POS project developed during the Shinsegae I&C cloud engineer traini
 - [Second-hand Auction Platform v1](https://github.com/rlatkd/ssgbay-v1)
 - [Customer Management System v1](https://github.com/rlatkd/management-system)
 
-</details>
-
-<details>
-  <summary>Undergraduate Projects</summary>
+### Undergraduate Projects
 
 - [CT Image Reconstruction](https://github.com/rlatkd/ct-image-reconstruction)
 
 </details>
 
-## Learning Notes
-
 <details>
-  <summary>Study Repositories & Experiments</summary>
+<summary><strong>Learning Notes</strong></summary>
 
 - [1day-1commit](https://github.com/rlatkd/1day-1commit)
 - [Kafka Streams](https://github.com/rlatkd/kafka-streams)
