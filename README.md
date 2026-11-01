@@ -7,7 +7,7 @@
     - Oracle v19C
 
   <details>
-    <summary>담당 업무</summary>
+    <!-- <summary>담당 업무</summary>
 
   **공유 조회 API 확장을 통한 결제·정산 데이터 정합성 확보**
 
@@ -47,7 +47,7 @@
 
   **성과:** 월 10건 규모의 동일 유형 VoC와 비고 수기 수정 해소 · 고객사 문의 전에 시스템 알림으로 실패 인지
 
-  </details>
+  </details> -->
 
 ## education
 - Master of Science (2026.03. - )
